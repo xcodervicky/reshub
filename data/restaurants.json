@@ -1,0 +1,1137 @@
+[
+  {
+    "id": 1,
+    "name": "Farmhouse Fun Fiesta Restaurant",
+    "slug": "farmhouse-fun-fiesta-nalasopara",
+    "tagline": "Family Dining, Global Flavors & Fun Fiesta Experience",
+    "description": "Farmhouse Fun Fiesta Restaurant in Nalasopara offers a vibrant dining experience with a mix of North Indian, Chinese, Continental, Seafood, and Italian cuisines. Located inside Fun Fiesta Mall, the restaurant is known for its lively ambiance, delicious buffet spreads, flavorful biryanis, and family-friendly atmosphere. With elegant interiors, fast service, and a wide variety of dishes, it has become one of the most popular dining destinations in Vasai-Virar.",
+    "cuisine": ["North Indian","Chinese","Biryani","Italian","Continental","Seafood"],
+    "address": "1st Floor, Fun Fiesta Mall, Shriprastha, Akash Nagar, Nilemore, Nalasopara West, Vasai-Virar, Maharashtra 401203",
+    "city": "Vasai-Virar",
+    "state": "Maharashtra", 
+    "phone": "+91 72620 44144",
+    "email": "info@farmhousevasai.com",
+    "hours": "Mon–Sun: 11:00 AM – 11:00 PM",
+    "rating": 4.2,
+    "review_count": 3479,
+    "price_range": "₹₹₹₹",
+    "isPremium": true,
+    "isActive": true,
+   
+   "seo": {
+    "focus_keyword": "Farmhouse Fun Fiesta Restaurant",
+    "meta_title": "Farmhouse Fun Fiesta Nalasopara | Best Family Restaurant in Vasai",
+    "meta_description": "Visit Farmhouse Fun Fiesta Restaurant in Nalasopara for North Indian, Chinese, Seafood & Continental cuisine. Family dining with 4.2★ rating and buffet options.",
+    "local_keywords": [
+     "farmhouse fun fiesta nalasopara", "best family restaurant vasai virar","north indian restaurant nalasopara","restaurants in fun fiesta mall","buffet restaurant vasai" ,"seafood restaurant nalasopara"
+    ]
+  },
+
+    "images": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFIwl9eM1ZDLUpqIP-8vNSPX6T4JHFn8SaBJT1Bc0IJP_6jqtfM_bSPUQo0IKIW1vbEAXrGI1rqMSomSvkm_4pDhPXGqCsc6MSyvsAYvqB2ZSjiU4ulEcu9LXhbOA57oyMhPpD1QFvhyKg=s1360-w1360-h1020-rw",
+      "https://lh3.googleusercontent.com/p/AF1QipPEzX4kC8d2D9qlIWbT7FZgdO5obnYwF_143jBv=s1360-w1360-h1020-rw",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE6ivYvNQokA-DXNla1m5TuXO30zCYUE6J4GrilupZuLWHZya39Zhh7R2i_s1nsOQA0hwydoOZBsq7Tqe6PzxKHY8zMC9ZHN6i2h515vqOgPit6lR2byMgtUkRnGty_uJDnzoJ5k-_Ro9Y=s1360-w1360-h1020-rw",
+      "https://lh3.googleusercontent.com/p/AF1QipPzTta-TZoKUQmakiWfOSM4HYZB9Plsis_B3Zmy=s1360-w1360-h1020-rw",
+      "https://lh3.googleusercontent.com/p/AF1QipPEXTlEANMrAHWLdTMHl-siXuBQfHQDITq9F3Mg=s1360-w1360-h1020-rw"
+    ],
+    "menu": [
+{ "name": "Mangoo Mania - Small Plates", "price": 349, "description": "Crispy small plates served with tangy mango flavors and signature sauces.", "category": "Starters", "isPopular": true },
+
+{ "name": "Godavari Chicken Tikka", "price": 425, "description": "Chicken tikka served with spicy habanero mango salsa and fries.", "category": "Starters", "isPopular": true },
+
+{ "name": "Broccoli Cream Soup", "price": 193, "description": "Creamy broccoli soup served with crunchy croutons.", "category": "Soups", "isPopular": false },
+
+{ "name": "Lemon Coriander Soup", "price": 182, "description": "Refreshing soup flavored with lemon and fresh coriander.", "category": "Soups", "isPopular": true },
+
+{ "name": "Manchow Soup", "price": 182, "description": "Spicy vegetable soup topped with crispy noodles.", "category": "Soups", "isPopular": true },
+
+{ "name": "Mushroom Cappuccino", "price": 237, "description": "Velvety mushroom soup infused with truffle oil foam.", "category": "Soups", "isPopular": false },
+
+{ "name": "Paya Shorba", "price": 259, "description": "Slow-cooked lamb trotters broth with Indian spices.", "category": "Soups", "isPopular": true },
+
+{ "name": "Sweet Corn Soup", "price": 182, "description": "Classic creamy sweet corn soup with herbs.", "category": "Soups", "isPopular": false },
+
+{ "name": "Tomato Cream Soup", "price": 193, "description": "Rich tomato veloute soup topped with cream.", "category": "Soups", "isPopular": false },
+
+{ "name": "Chicken House Style Caesar's Salad", "price": 281, "description": "Chicken caesar salad with parmesan and garlic croutons.", "category": "Salads", "isPopular": true },
+
+{ "name": "Green Salad", "price": 171, "description": "Fresh garden vegetables tossed with light seasoning.", "category": "Salads", "isPopular": false },
+
+{ "name": "Hawaiian Chicken Salad", "price": 314, "description": "Chicken mixed with pineapple, mayo, peppers and eggs.", "category": "Salads", "isPopular": true },
+
+{ "name": "Paneer House Style Caesar's Salad", "price": 259, "description": "Vegetarian caesar salad with paneer and parmesan.", "category": "Salads", "isPopular": false },
+
+{ "name": "Prawns House Style Caesar's Salad", "price": 325, "description": "Prawns tossed in creamy caesar dressing.", "category": "Salads", "isPopular": true },
+
+{ "name": "Saute Vegetables", "price": 292, "description": "Fresh vegetables sauteed in butter and herbs.", "category": "Salads", "isPopular": false },
+
+{ "name": "Exotic Veg Momo", "price": 259, "description": "Steamed momos stuffed with exotic vegetables.", "category": "Momos", "isPopular": true },
+
+{ "name": "Steamed Chicken Momo", "price": 270, "description": "Chicken stuffed steamed momos with spicy chutney.", "category": "Momos", "isPopular": true },
+
+{ "name": "Anda Bhurji", "price": 182, "description": "Indian-style scrambled eggs with spices and herbs.", "category": "Nibbles", "isPopular": false },
+
+{ "name": "Boiled Eggs (02 Nos)", "price": 105, "description": "Two boiled eggs served with seasoning.", "category": "Nibbles", "isPopular": false },
+
+{ "name": "Boiled Kabuli Chana", "price": 127, "description": "Healthy boiled chickpeas seasoned with spices.", "category": "Nibbles", "isPopular": false }
+],
+    "social": {
+      "instagram": "https://instagram.com/farmhousefunfiesta",
+      "facebook": "https://facebook.com/farmhousefunfiesta",
+      "twitter": "https://twitter.com/farmhousevasai"
+    },
+    "swiggy_link": "https://www.swiggy.com/city/mumbai/farmhouse-funfiesta-nalasopara-west-rest177838",
+    "zomato_link": "https://www.zomato.com/mumbai/farmhouse-funfiesta-nalasopara",
+    "whatsapp": "917262044144",
+    "map_embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3762.7301463993285!2d72.8116201265053!3d19.42406216580384!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7a9ece9a471d1%3A0xf24e99cdda9151bd!2sFarmhouse%20Fun%20Fiesta%20Restaurant!5e0!3m2!1sen!2sin!4v1778225585472!5m2!1sen!2sin"
+  },
+  {
+  "id": 2,
+  "name": "Madhuram Pure Veg Restaurant",
+  "slug": "madhuram-pure-veg-virar",
+  "tagline": "Authentic Veg Delights with South Indian Flavors",
+  "description": "Madhuram Pure Veg Restaurant in Virar West is a popular family restaurant known for its delicious South Indian breakfast dishes, Chinese specialties, North Indian curries, and fast food. With spacious seating, affordable pricing, and pure vegetarian cuisine, the restaurant offers a comfortable dining experience for families and groups. The restaurant is especially famous for its dosa varieties, soups, paneer dishes, and refreshing beverages.",
+  "cuisine": [ "South Indian", "North Indian", "Chinese", "Fast Food", "Gujarati", "Street Food"
+  ],
+  "address": "Agashi Rd, Jakat Naka, Narangi Bypass Rd, Virar West, Vasai-Virar, Maharashtra 401303",
+  "city": "Vasai-Virar",
+  "state": "Maharashtra",
+  "phone": "+91 74474 43126",
+  "email": "info@madhuramhotel.com",
+  "hours": "Mon–Sun: 8:00 AM – 11:30 PM",
+  "rating": 4.2,
+  "review_count": 4379,
+  "price_range": "₹₹",
+  "isPremium": true,
+  "isActive": true,
+
+  "seo": {
+    "focus_keyword": "Madhuram Pure Veg Restaurant Virar",
+    "meta_title": "Madhuram Pure Veg Restaurant Virar | Best South Indian Restaurant",
+    "meta_description": "Visit Madhuram Pure Veg Restaurant in Virar for delicious South Indian, Chinese & North Indian dishes with family dining experience.",
+    "local_keywords": [
+      "madhuram hotel virar","best veg restaurant virar","south indian restaurant virar west",
+      "pure veg family restaurant vasai virar","dosa restaurant virar", "madhuram menu"
+    ]
+  },
+
+  "images": [
+    "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGoJEKKc2EmhvBh7n4XWqyQNPssddHF94-pIM7IEfY3pMu8aEfJKuujB7IPyT7CfU90EUQZsFs699UmqFhlyZ9wT5ndJpB9bPIRC1vy-Pefm2t8RluyUaS8Skp0J3ybvKd6hpPLWKehEW1u=s1360-w1360-h1020-rw",
+    "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEvOUNpo5Qe-O6sddJ8V3SiSYJGlOmPo6MrPVFquJqgDSOyjpl77aPzPlHensZhvvlfevJF0YTT40wJ_DGw0zNKLGowClQa2Nfntxmz3_YN8lsYP7_u2YytHCE5F0zVlWLePf37slqf7yP-=s1360-w1360-h1020-rw",
+    "https://lh3.googleusercontent.com/gps-cs-s/APNQkAErSkcVKs35D8h4fAWZVrG2xdZl3bEIKB5LBomfcnPOlfi4nT4evmGlZ1X0YHxugpwvZHM5MvbQFQxpLWoojYNQ3HERI5rQZx-kGfYMJWSQVD9Hc7XG5GcuGBrT6JuxiwMfyXEa=s1360-w1360-h1020-rw",
+    "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHFI3hEQim4A28KU2rc9t8QQL7GYseok94QnrfE9_wjVadwQm0_3Tg7jFpeOoLUjBHlIKuIg4JQBY7IcUmQ4q4hZlOr8XZ4pDev3kn2aiBj_1FJh_wk9Oc06Dn7cdezvnwaG7-W=s1360-w1360-h1020-rw",
+    "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFn_9c0yCPDsVEOoumGIkTJPKvd8wcN714jSQV_sh4BpvhE5G3nZa4qudyUK8n0wmPmqTY6Y4LDXewXn-5qGckrkERFQgP37uaqXnd66qTtxu1gKZP53703X68ZGu6221_APyHk=s1360-w1360-h1020-rw"
+  ],
+
+  "menu": [
+    { "name": "Paper Masala Dosa", "price": 190, "description": "Crispy dosa with potato filling", "category": "South Indian", "isPopular": true },
+
+    { "name": "Butter Kulcha", "price": 120, "description": "Soft buttery tandoor bread", "category": "Breads", "isPopular": true },
+
+    { "name": "Vada Sambhar", "price": 140, "description": "Crispy vada with sambhar", "category": "South Indian", "isPopular": true },
+
+    { "name": "Paneer Butter Masala", "price": 280, "description": "Creamy paneer curry delight", "category": "Main Course", "isPopular": true },
+
+    { "name": "Spring Roll", "price": 220, "description": "Crunchy vegetable stuffed rolls", "category": "Starters", "isPopular": false },
+
+    { "name": "Veg Kolhapuri with Naan", "price": 290, "description": "Spicy veg curry combo", "category": "Main Course", "isPopular": true },
+
+    { "name": "Masala Papad", "price": 90, "description": "Crispy papad with toppings", "category": "Snacks", "isPopular": false },
+
+    { "name": "Filter Coffee", "price": 80, "description": "Traditional south indian coffee", "category": "Beverages", "isPopular": true },
+
+    { "name": "Dal Khichdi", "price": 210, "description": "Comforting rice and lentils", "category": "Main Course", "isPopular": true },
+
+    { "name": "Chole Bhature", "price": 220, "description": "Punjabi chole with bhature", "category": "North Indian", "isPopular": true },
+
+    { "name": "Mysore Masala Dosa", "price": 210, "description": "Spicy mysore style dosa", "category": "South Indian", "isPopular": true },
+
+    { "name": "Honeymoon Ice Cream", "price": 150, "description": "Sweet creamy dessert special", "category": "Desserts", "isPopular": false },
+
+    { "name": "Paneer Chilli", "price": 260, "description": "Spicy paneer chinese starter", "category": "Chinese", "isPopular": true },
+
+    { "name": "Fresh Lime Soda", "price": 95, "description": "Refreshing lime flavored drink", "category": "Beverages", "isPopular": false },
+
+    { "name": "Tomato Soup", "price": 135, "description": "Creamy tomato flavored soup", "category": "Soups", "isPopular": false },
+
+    { "name": "Chapati", "price": 25, "description": "Soft whole wheat bread", "category": "Breads", "isPopular": false },
+
+    { "name": "Cheese Pizza", "price": 220, "description": "Cheesy loaded veg pizza", "category": "Pizza", "isPopular": true },
+
+    { "name": "Lassi", "price": 110, "description": "Sweet chilled yogurt drink", "category": "Beverages", "isPopular": false },
+
+    { "name": "Mangalore Buns", "price": 140, "description": "Sweet fluffy banana buns", "category": "South Indian", "isPopular": true },
+
+    { "name": "Hara Bhara Kabab", "price": 220, "description": "Healthy spinach veg kabab", "category": "Starters", "isPopular": true }
+  ],
+
+  "social": {
+    "instagram": "https://instagram.com/madhuramhotel",
+    "facebook": "https://facebook.com/madhuramhotel",
+    "twitter": "https://twitter.com/madhuramhotel"
+  },
+
+  "swiggy_link": "https://www.swiggy.com/city/mumbai/madhuram-pure-veg-restaurant-virar-west-rest674924",
+  "zomato_link": "https://www.zomato.com/mumbai/madhuram-pure-veg-restaurant-virar",
+  "whatsapp": "917447443126",
+
+  "map_embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3762.1273457137336!2d72.80156887498732!3d19.45007558183307!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7abb22bba7e25%3A0x4ca515c81a9fa76c!2sMadhuram%20hotel!5e0!3m2!1sen!2sin!4v1778228777987!5m2!1sen!2sin"
+},
+{
+  "id": 3,
+  "name": "Purple Orchid Restaurant",
+  "slug": "purple-orchid-virar-east",
+  "tagline": "Family Dining with Chinese & North Indian Flavors",
+  "description": "Purple Orchid Restaurant in Virar East is a cozy family dining destination offering delicious North Indian and Chinese cuisine. Known for its flavorful chicken starters, soups, tandoori dishes, and private dining experience, the restaurant provides a comfortable ambiance for families and groups. With affordable pricing, tasty food, and quality service, Purple Orchid has become a favorite local dining spot near Jivdani Road.",
+  "cuisine": ["North Indian","Chinese","Tandoori","Seafood"
+  ],
+  "address": "Bhoir Pada, Mhatre Wadi, Virar East Railway Station Rd, Jivdani Rd, near Thakibhai Garden, Bhoirpada, Virar East, Vasai-Virar, Maharashtra 401305",
+  "city": "Vasai-Virar",
+  "state": "Maharashtra",
+  "phone": "+91 98676 50511",
+  "email": "info@purpleorchidrestaurant.com",
+  "hours": "Mon–Sun: 12:00 PM – 11:45 PM",
+  "rating": 4.3,
+  "review_count": 105,
+  "price_range": "₹₹",
+  "isPremium": true,
+  "isActive": true,
+
+  "seo": {
+    "focus_keyword": "Purple Orchid Virar",
+    "meta_title": "Purple Orchid Restaurant Virar East | Family Restaurant",
+    "meta_description": "Visit Purple Orchid Restaurant in Virar East for delicious Chinese and North Indian cuisine with family dining ambiance.",
+    "local_keywords": [
+      "purple orchid virar east",
+      "family restaurant virar",
+      "best chinese restaurant virar east",
+      "north indian restaurant jivdani road",
+      "purple orchid menu",
+      "restaurants near thakibhai garden"
+    ]
+  },
+
+  "images": [
+    "https://lh3.googleusercontent.com/gps-cs-s/APNQkAETcjKd6e_NgcjIU0aTzGm2jeqy4hUayxLv8ocjPY0eoc_yWuYE03oVuFWV9jcTQLtDUh_z-GWuVIW70VDu2UPYNlG0I8JVVZab7GmW1IuB7MQCGWdBvBNuLnqaY3KjJ1GqqbY5pA=s1360-w1360-h1020-rw",
+    "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFi5MZNR6vnDjD5PczHvjYzBPW0qtOR02_IibAmj3dfI6OL2jrkQ41DNZm9KhEGJkVDXE9jvbVabi7F1eksIz2WWIt4-msVz48p05EH5P0elcNikjhakUSEPRL7NAd1zqmWrfGFrw=s1360-w1360-h1020-rw",
+    "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGf7W1ONOuRteiLHyIL0syKel4mnMObHXcDO9QMX9ZsLswBP76X0jko4QqmJ0ugvjoF1lEBZPwlBHHoTOgnAYZLtIxSUM6e6T8dnG7dBPRe_kq9Lnfd2o3dgiDLjl7G8cCPuhOfkw=s1360-w1360-h1020-rw",
+    "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEi5Xl1_GZwVpXM-6Xz-dkcF3TRyPAMXLqCclD2vCtGs6GBG4nUGFtlJiW7AJeiUSK3UAx7YH9RywhsHQmycM8KdhwfqylsRwb2XJAIJKvbR-6rL9MYT-ZDWk8_XNeS8Fkm_CD2=s1360-w1360-h1020-rw",
+    "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHFXix8CczJesPoeZ4VGspsbGy1iRLAOh9ykzJ8A8dzk28XTOF6fUQGM31HlZOX__gRPlfB35_qfhK8dibxYo5z4T3n6DQODlFXYSnqVN6xOdTLd9MvgIZEYN2WIbQ5PkiL5xIzUQ=s1360-w1360-h1020-rw"
+  ],
+
+  "menu": [
+    { "name": "Chicken Clear Soup", "price": 140, "description": "Light flavorful chicken broth", "category": "Soups", "isPopular": false },
+
+    { "name": "Chicken Hot N Sour Soup", "price": 160, "description": "Spicy tangy chicken soup", "category": "Soups", "isPopular": true },
+
+    { "name": "Chicken Manchow Soup", "price": 160, "description": "Classic chinese spicy soup", "category": "Soups", "isPopular": true },
+
+    { "name": "Chicken Noodles Soup", "price": 130, "description": "Chicken soup with noodles", "category": "Soups", "isPopular": false },
+
+    { "name": "Chicken Royal Soup", "price": 160, "description": "Rich creamy chicken soup", "category": "Soups", "isPopular": false },
+
+    { "name": "Chicken Sweet Corn Soup", "price": 160, "description": "Sweet corn chicken delight", "category": "Soups", "isPopular": true },
+
+    { "name": "Cream Of Mushroom Soup", "price": 130, "description": "Creamy mushroom flavored soup", "category": "Soups", "isPopular": false },
+
+    { "name": "Hot N Sour Soup", "price": 130, "description": "Tangy spicy vegetable soup", "category": "Soups", "isPopular": true },
+
+    { "name": "Veg Manchow Soup", "price": 130, "description": "Veg soup with noodles", "category": "Soups", "isPopular": true },
+
+    { "name": "Veg Noodles Soup", "price": 100, "description": "Vegetable noodles soup bowl", "category": "Soups", "isPopular": false },
+
+    { "name": "Cream Of Spinach Soup", "price": 140, "description": "Healthy creamy spinach soup", "category": "Soups", "isPopular": false },
+
+    { "name": "Lemon Coriander Soup", "price": 130, "description": "Fresh lemon coriander flavors", "category": "Soups", "isPopular": true },
+
+    { "name": "Veg Sweet Corn Soup", "price": 130, "description": "Sweet corn vegetable soup", "category": "Soups", "isPopular": false },
+
+    { "name": "Veg Tomato Soup", "price": 130, "description": "Classic tomato soup delight", "category": "Soups", "isPopular": false },
+
+    { "name": "Egg Chilli", "price": 220, "description": "Spicy tossed egg starter", "category": "Starters", "isPopular": true },
+
+    { "name": "Chicken Chilli", "price": 270, "description": "Popular spicy chicken starter", "category": "Starters", "isPopular": true },
+
+    { "name": "Chicken Crispy", "price": 330, "description": "Crunchy crispy chicken bites", "category": "Starters", "isPopular": true },
+
+    { "name": "Chicken Lollipop", "price": 340, "description": "Fried chicken wing starter", "category": "Starters", "isPopular": true },
+
+    { "name": "Chicken Schezwan", "price": 290, "description": "Schezwan tossed spicy chicken", "category": "Starters", "isPopular": true },
+
+    { "name": "Paneer Tikka", "price": 270, "description": "Grilled spicy paneer cubes", "category": "Tandoori", "isPopular": true }
+  ],
+
+  "social": {
+    "instagram": "https://instagram.com/purpleorchidrestaurant",
+    "facebook": "https://facebook.com/purpleorchidrestaurant",
+    "twitter": "https://twitter.com/purpleorchidrest"
+  },
+
+  "swiggy_link": "https://www.swiggy.com/city/mumbai/purple-orchid-restaurant-east-virar-rest938193",
+  "zomato_link": "https://www.zomato.com/mumbai/purple-orchid-restaurant-virar",
+  "whatsapp": "919867650511",
+
+  "map_embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3852230.6108474922!2d67.94128431250002!3d19.457983!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7a97f88d4cef1%3A0x5a4f657871ede573!2sPurple%20Orchid!5e0!3m2!1sen!2sin!4v1778229905205!5m2!1sen!2sin"
+},
+{
+  "id": 4,
+  "name": "Tipsy Panda Family Restaurant",
+  "slug": "tipsy-panda-family-restaurant-virar",
+  "tagline": "Asian Dining, Mocktails & Family Bar Experience",
+  "description": "Tipsy Panda Family Restaurant + Bar in Virar West offers a vibrant dining experience with Asian cuisine, refreshing mocktails, delicious soups, and premium family dining ambiance. Known for its stylish interiors, flavorful Chinese dishes, private dining options, and wide beverage selection, the restaurant is a favorite destination for casual dining and celebrations.",
+  "cuisine": ["Asian","Chinese","Thai","North Indian","Bar Food"
+  ],
+  "address": "SUGANDHI HEIGHTS, A-101/102, Bolinj Rd, Kharodi Naka, Bolinj, Virar West, Vasai-Virar, Maharashtra 401303",
+  "city": "Vasai-Virar",
+  "state": "Maharashtra",
+  "phone": "+91 82378 80804",
+  "email": "info@tipsypanda.com",
+  "hours": "Mon–Sun: 11:00 AM – 12:00 AM",
+  "rating": 4.3,
+  "review_count": 558,
+  "price_range": "₹₹₹",
+  "isPremium": true,
+  "isActive": true,
+
+  "seo": {
+    "focus_keyword": "Tipsy Panda Virar",
+    "meta_title": "Tipsy Panda Family Restaurant + Bar Virar West",
+    "meta_description": "Visit Tipsy Panda Family Restaurant + Bar in Virar West for Asian cuisine, mocktails, soups, and premium family dining experience.",
+    "local_keywords": [ "tipsy panda virar", "best asian restaurant virar west", "family restaurant bolinj road","mocktails restaurant virar", "tipsy panda menu", "restaurants near kharodi naka"
+    ]
+  },
+
+  "images": [
+    "https://lh3.googleusercontent.com/p/AF1QipN-Lpj90Q4XQiKbI3M32ChO4RubO3tk5vc_11J3=s1360-w1360-h1020-rw",
+    "https://lh3.googleusercontent.com/p/AF1QipPIfpjnGAAKPrZM-VKsbsQ3CUT9B9hoHhD6HgJl=s1360-w1360-h1020-rw",
+    "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEZARVFTGRi4eqYFnn0UX31xbb131iuOF9jscBeASiAlcLtlXqVuQd55t7mF1Uh3aUPZmHCkqbiQn0bLS2yCh16hmQfGKT0_7HRZSaZ1xAPBGrApbp29KOIJZPmA5TdZZEZM5QeHw=s1360-w1360-h1020-rw",
+    "https://lh3.googleusercontent.com/p/AF1QipOFYMj3Ut2KZMorqNEBfOwdfQDq048_yzJOo1Pi=s1360-w1360-h1020-rw",
+    "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFJTP5mN1-NVcFX7Hluw9JKsC8FrAkiQ5hC_xF0S3eDERD7ehWubddmAibGeBjPkxFGmTpxyGf2DgDUBCKA_gnUL2j8-aMEgdEvpuoQJrY7ZwYdn63TWJdYi0o7TIqvo0YhMukSOg=s1360-w1360-h1020-rw"
+  ],
+
+  "menu": [
+    { "name": "Cold Coffee", "price": 205, "description": "Creamy chilled coffee delight", "category": "Mocktails", "isPopular": true },
+
+    { "name": "Cranberry Cooler", "price": 205, "description": "Refreshing cranberry lychee cooler", "category": "Mocktails", "isPopular": true },
+
+    { "name": "Fruit Punch", "price": 205, "description": "Mixed tropical fruit beverage", "category": "Mocktails", "isPopular": true },
+
+    { "name": "Guava Mary", "price": 205, "description": "Spicy tangy guava drink", "category": "Mocktails", "isPopular": false },
+
+    { "name": "Iced Tea", "price": 140, "description": "Refreshing flavored chilled tea", "category": "Beverages", "isPopular": false },
+
+    { "name": "Orange Blossom", "price": 205, "description": "Fresh orange basil cooler", "category": "Mocktails", "isPopular": false },
+
+    { "name": "Virgin Mojito", "price": 205, "description": "Mint lime refreshing drink", "category": "Mocktails", "isPopular": true },
+
+    { "name": "Virgin Pinacolada", "price": 205, "description": "Creamy pineapple coconut beverage", "category": "Mocktails", "isPopular": true },
+
+    { "name": "Chocolate Shake", "price": 205, "description": "Rich chocolate creamy shake", "category": "Shakes", "isPopular": true },
+
+    { "name": "Kiwi Shake", "price": 205, "description": "Sweet kiwi flavored shake", "category": "Shakes", "isPopular": false },
+
+    { "name": "Oreo Shake", "price": 205, "description": "Crunchy oreo milkshake delight", "category": "Shakes", "isPopular": true },
+
+    { "name": "Strawberry Shake", "price": 205, "description": "Sweet strawberry creamy shake", "category": "Shakes", "isPopular": false },
+
+    { "name": "Chicken 8 Treasures Soup", "price": 238, "description": "Chicken soup with vegetables", "category": "Soups", "isPopular": true },
+
+    { "name": "Chicken Burnt Garlic Soup", "price": 198, "description": "Garlic flavored spicy soup", "category": "Soups", "isPopular": true },
+
+    { "name": "Chicken Hot & Sour Soup", "price": 198, "description": "Tangy spicy chicken soup", "category": "Soups", "isPopular": true },
+
+    { "name": "Chicken Lemon Coriander Soup", "price": 198, "description": "Fresh lemon coriander flavors", "category": "Soups", "isPopular": false },
+
+    { "name": "Chicken Manchow Soup", "price": 198, "description": "Spicy chinese chicken soup", "category": "Soups", "isPopular": true },
+
+    { "name": "Chicken Tom Yum Soup", "price": 230, "description": "Thai spicy soup special", "category": "Soups", "isPopular": true },
+
+    { "name": "Prawns Burnt Garlic Soup", "price": 238, "description": "Prawns soup with garlic", "category": "Soups", "isPopular": false },
+
+    { "name": "Prawns Manchow Soup", "price": 238, "description": "Spicy prawns chinese soup", "category": "Soups", "isPopular": true }
+  ],
+
+  "social": {
+    "instagram": "https://instagram.com/tipsypanda",
+    "facebook": "https://facebook.com/tipsypanda",
+    "twitter": "https://twitter.com/tipsypanda"
+  },
+
+  "swiggy_link": "https://www.swiggy.com/restaurants/tipsy-panda-global-kitchen-virar-west-mumbai-999424/dineout",
+  "zomato_link": "https://www.zomato.com/mumbai/tipsy-panda-global-kitchen-virar",
+  "whatsapp": "918237880804",
+
+  "map_embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3762.232241603542!2d72.7955413749872!3d19.44555128183666!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7abe77b8a1765%3A0xf9178f6fc794a38b!2sTipsy%20Panda%20Family%20Restaurant%20%2B%20bar!5e0!3m2!1sen!2sin!4v1778233288688!5m2!1sen!2sin"
+},
+{
+  "id": 5,
+  "name": "Indian Aura - Multi Cuisine Restaurant",
+  "slug": "indian-aura-virar-west",
+  "tagline": "Premium Multi Cuisine Dining Experience",
+  "description": "Indian Aura - Multi Cuisine Restaurant in Virar West offers a premium dining experience with flavorful North Indian, Chinese, Thai, and Street Food specialties. Known for its rich soups, elegant ambiance, and family-friendly dining, the restaurant provides quality food with generous portions. With vegetarian options, late-night dining, and reservation facilities, Indian Aura is a popular destination for food lovers in Virar.",
+  "cuisine": [ "North Indian", "Chinese", "Thai", "Street Food","Multi Cuisine"
+  ],
+  "address": "Shu Shalini Bldg, 14/115, Vartak Rd, near Dongerpada, Kolwadi Talav, Virar West, Vasai-Virar, Maharashtra 401303",
+  "city": "Vasai-Virar",
+  "state": "Maharashtra",
+  "phone": "+91 84211 15565",
+  "email": "info@indianaura.com",
+  "hours": "Mon–Sun: 11:00 AM – 5:00 AM",
+  "rating": 4.5,
+  "review_count": 256,
+  "price_range": "₹₹₹",
+  "isPremium": true,
+  "isActive": true,
+
+  "seo": {
+    "focus_keyword": "Indian Aura Virar",
+    "meta_title": "Indian Aura Multi Cuisine Restaurant Virar West",
+    "meta_description": "Visit Indian Aura in Virar West for premium North Indian, Chinese & Thai cuisine with elegant family dining experience.",
+    "local_keywords": [ "indian aura virar","multi cuisine restaurant virar west", "best chinese restaurant virar","north indian restaurant vartak road","thai food virar west",
+      "indian aura menu"
+    ]
+  },
+
+  "images": [
+    "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHJN3TTuSOkHKkiD5P0mTCN8wwlkn542GDEs0H-jVBmelIRcKnsYlNLxdSF0pQ-2frFxJsVBRtGwPvXNloUEfG5xMKyczG7ym_nk6mK2VyW7xCdTg33Xzyqjt5HDeNnfWai5GOMTvdE2K5A=s1360-w1360-h1020-rw",
+    "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGKXkHdHPsgGcECAC9UmCl4BwNyfqdPu1L4TKWtI_AuJc7A8UbeI5hMw2bKvPpGPoHgw2XeVHW7drri6_wXtlnpVcL3URfGHbanrLlEhu07D5e2KerwY-7glVRZRscVL2B8RwJzF3CKOwp6=s1360-w1360-h1020-rw",
+    "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGjo2M4_g5dVQipTZ0XQ3IhbM1QhBU6wQkuzjdnjKaxhD3HBoRrYBu_NN2zsq0GVUwODlLi856bRRD5SCxi3TKKq3ofa7-ZSgqu70UzSz3Rtqq0MEgDKqTTN_al8esizWiRUq8yOiHZNIk=s1360-w1360-h1020-rw",
+    "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEIFkbu-Wr0MSDLRQYqkm_4gq2yC0SRR3c5i51EFgRu_-8mywbkhLoUzFjh9Fn8gZCDZ01uRTZ7WcwypaSfoziRL9aN0pL6vbwKvIWHAqSp9lG2VypkdSjLkCBFSQjNZ-1ppR91_pBSS_Sl=s1360-w1360-h1020-rw",
+    "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEn50NLchGn0OejZdxMCHSDBNhJz35dICR8QhrnkX3XueogUh69tXxOuERtgGRllsvgF8mrqG4zvnxUJl4wC3CZ2xr4Q-FRKKF_VCNQ9WJlPuJCRmxr5ao-Dv4Mk6VH92jhy8EGipxNnzKu=s1360-w1360-h1020-rw"
+  ],
+
+  "menu": [
+    { "name": "Cream Of Tomato", "price": 209, "description": "Rich creamy tomato soup", "category": "Indian Soup", "isPopular": true },
+
+    { "name": "Cream Of Veg", "price": 229, "description": "Mixed vegetable creamy soup", "category": "Indian Soup", "isPopular": false },
+
+    { "name": "Cream Of Mushroom", "price": 239, "description": "Creamy mushroom flavored delight", "category": "Indian Soup", "isPopular": true },
+
+    { "name": "Cream Of Palak", "price": 239, "description": "Healthy spinach creamy soup", "category": "Indian Soup", "isPopular": false },
+
+    { "name": "Tomato Coriander Shorba", "price": 249, "description": "Tangy tomato coriander broth", "category": "Indian Soup", "isPopular": true },
+
+    { "name": "Dal Palak Shorba", "price": 249, "description": "Lentil spinach flavorful soup", "category": "Indian Soup", "isPopular": false },
+
+    { "name": "Veg Manchow Soup", "price": 139, "description": "Spicy chinese vegetable soup", "category": "Chinese Veg Soup", "isPopular": true },
+
+    { "name": "Veg Hot & Sour Soup", "price": 149, "description": "Tangy spicy veg broth", "category": "Chinese Veg Soup", "isPopular": true },
+
+    { "name": "Veg Sweet Corn Soup", "price": 169, "description": "Sweet corn creamy soup", "category": "Chinese Veg Soup", "isPopular": false },
+
+    { "name": "Veg Lemon Coriander Soup", "price": 169, "description": "Refreshing lemon herb soup", "category": "Chinese Veg Soup", "isPopular": false },
+
+    { "name": "Thai Veg Tom Yum Soup", "price": 179, "description": "Spicy thai vegetable soup", "category": "Thai Soup", "isPopular": true },
+
+    { "name": "Veg Tibetan Thukpa", "price": 199, "description": "Noodle soup with vegetables", "category": "Thai Soup", "isPopular": false },
+
+    { "name": "Chicken Manchow Soup", "price": 159, "description": "Chicken spicy chinese soup", "category": "Chicken Soup", "isPopular": true },
+
+    { "name": "Chicken Hot & Sour Soup", "price": 169, "description": "Tangy spicy chicken broth", "category": "Chicken Soup", "isPopular": true },
+
+    { "name": "Chicken Sweet Corn Soup", "price": 189, "description": "Creamy chicken corn soup", "category": "Chicken Soup", "isPopular": false },
+
+    { "name": "Chicken Lemon Coriander Soup", "price": 189, "description": "Fresh lemon chicken soup", "category": "Chicken Soup", "isPopular": false },
+
+    { "name": "Chicken Lung Fung Soup", "price": 199, "description": "Rich chinese chicken soup", "category": "Chicken Soup", "isPopular": true },
+
+    { "name": "Thai Chicken Tom Yum Soup", "price": 199, "description": "Spicy thai chicken broth", "category": "Thai Soup", "isPopular": true },
+
+    { "name": "Prawns Manchow Soup", "price": 199, "description": "Spicy prawns noodle soup", "category": "Prawns Soup", "isPopular": true },
+
+    { "name": "Thai Prawns Tom Yum Soup", "price": 239, "description": "Thai prawns spicy delight", "category": "Prawns Soup", "isPopular": true }
+  ],
+
+  "social": {
+    "instagram": "https://instagram.com/indianaura",
+    "facebook": "https://facebook.com/indianaura",
+    "twitter": "https://twitter.com/indianaura"
+  },
+
+  "swiggy_link": "https://www.swiggy.com/city/mumbai/indian-aura-palghar-vartak-road-rest998956",
+  "zomato_link": "https://www.zomato.com/mumbai/indian-aura-virar",
+  "whatsapp": "918421115565",
+
+  "map_embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3761.901895359564!2d72.80410917892803!3d19.459796134963447!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7a9a559263057%3A0xbd3d4217c33ab50b!2sIndian%20Aura%20-%20Multi%20Cuisine%20Restaurant!5e0!3m2!1sen!2sin!4v1778233823413!5m2!1sen!2sin"
+},
+{
+  "id": 6,
+  "name": "Global Binge by Ashraya",
+  "slug": "global-binge-by-ashraya-virar",
+  "tagline": "Global Asian Flavors & Premium Dining Experience",
+  "description": "Global Binge by Ashraya in Virar West offers a premium multi-cuisine dining experience with North Indian, Oriental, Seafood, Chinese, and Asian delicacies. Known for its stylish ambiance, outdoor seating, flavorful noodles, signature rice bowls, and Asian-inspired dishes, the restaurant is a favorite destination for food lovers and families looking for global flavors in Virar.",
+  "cuisine": ["North Indian", "Oriental", "Chinese", "Seafood", "Asian", "Desserts"
+  ],
+  "address": "Avenue M, Building No. 7 & 8, Evershine Global City, behind Yazoo Park, Virar West, Vasai-Virar, Maharashtra 401303",
+  "city": "Vasai-Virar",
+  "state": "Maharashtra",
+  "phone": "+91 77450 16789",
+  "email": "info@globalbinge.com",
+  "hours": "Mon–Sun: 11:00 AM – 11:30 PM",
+  "rating": 4.1,
+  "review_count": 3219,
+  "price_range": "₹₹₹",
+  "isPremium": true,
+  "isActive": true,
+
+  "seo": {
+    "focus_keyword": "Global Binge Virar",
+    "meta_title": "Global Binge by Ashraya Virar West | Asian Restaurant",
+    "meta_description": "Visit Global Binge by Ashraya in Virar West for premium Asian, Chinese, Seafood & North Indian dining experience.",
+    "local_keywords": ["global binge virar","best asian restaurant virar west","oriental restaurant global city","seafood restaurant virar", "global binge menu", "restaurants near yazoo park"
+    ]
+  },
+
+  "images": [
+    "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGomZeIDHTwk5QZ06F_6sBtLu4RE7GBm5aLlECAyqVCOqPX5q96q6aNJFQtoXMPRMDsnyfxfUXxLoIgtK5HNlOP-oIV9_rH3vlDDxPeeO-zUGbkOfLPDUb-VJH5dHEi5Zci2jFqr_BR9P8Z=s1360-w1360-h1020-rw",
+    "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFdSAyTwLcuhbF7c7hfaakDtmcBCBbHheBt1zLSJ2K10G0NBV_a6ftZiY1W8Pd1ErdNigjFQwhsvlnOUdX8q_pAFdigMqPzIt9-hD8fwO3UELUk4vZRmCvxsbG_ivEQDrHYctOQcA=s1360-w1360-h1020-rw",
+    "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFM1tA8ug7RxqZKa2w-uqmClJy85Dij5uOPc8hLUzilNF47eZmAoK2hs11vyEJRtS8rQGZ3AKSxR7DFxDXIGnKWe00OfPZ-OoZBn_PbrFkB6Q7ZN_aeXf80525tnwSnv8jjK_DL=s1360-w1360-h1020-rw",
+    "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF5G_G7IOBxKduaVqlCjMtvZ0uvkTt7TGxWhTIENx8XnP4iJIstjjERwBjkGhslEc_kykQOd42jQ7693yN-1VeIAURHEDHwKLA4vn8AjJUYpACQp-Oe9sk5_Sj89_ogOXtfvAqA=s1360-w1360-h1020-rw",
+    "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGz6uUXBTiYkPKSojRchR758kK-aXWaQvFBV4r77YnKGuLk_n_aLOmFS-xE0EBhsLD9wkBPSAfiKV5Hu__5FJPtMxFNoHAzctFmRUCWugMBfxibDlHa8BwhG0jLe0MG6Qq1G-VkRg=s1360-w1360-h1020-rw",
+    "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEfZWWHo_wuBxAKa-WVg33JCwQA2YN6AYt5q6FXuLZ4uGQF0KFwuL-9enyV5xYiot88psvsRZVeESGnlN0QnTJpDvlKvZ69yoGdVJCY6HqElzp_eV8F9sGpzSQFBeFlFLl70oErPg=s1360-w1360-h1020-rw"
+  ],
+
+  "menu": [
+    { "name": "Classic Manchow", "price": "₹220", "description": "Spicy chinese soup delight", "category": "Soups", "isPopular": true },
+
+    { "name": "Tomyum", "price": "₹260", "description": "Thai spicy tangy soup", "category": "Soups", "isPopular": true },
+
+    { "name": "Khao Suey", "price": "₹340", "description": "Creamy coconut noodle curry", "category": "Main Course", "isPopular": true },
+
+    { "name": "Thukpa", "price": "₹280", "description": "Tibetan noodle soup bowl", "category": "Soups", "isPopular": false },
+
+    { "name": "Burmies Curry Pot Rice", "price": "₹360", "description": "Rich curry rice combo", "category": "Rice", "isPopular": true },
+
+    { "name": "Thai Curry Pot Noodles", "price": "₹390", "description": "Thai curry noodle delight", "category": "Noodles", "isPopular": true },
+
+    { "name": "Roasted Sesame Chilli Pot Noodles", "price": "₹350", "description": "Sesame flavored spicy noodles", "category": "Noodles", "isPopular": false },
+
+    { "name": "Buddha's Delight", "price": "₹320", "description": "Healthy asian vegetable bowl", "category": "Main Course", "isPopular": false },
+
+    { "name": "Hot Garlic Sauce", "price": "₹240", "description": "Spicy garlic flavored sauce", "category": "Sides", "isPopular": false },
+
+    { "name": "Black Bean Sauce", "price": "₹250", "description": "Savory black bean flavors", "category": "Sides", "isPopular": false },
+
+    { "name": "Burnt Garlic Chilli Rice", "price": "₹320", "description": "Garlic flavored spicy rice", "category": "Rice", "isPopular": true },
+
+    { "name": "Singapore Chilli Rice", "price": "₹340", "description": "Singapore style spicy rice", "category": "Rice", "isPopular": true },
+
+    { "name": "Kimchi Fried Rice", "price": "₹360", "description": "Korean kimchi fried rice", "category": "Rice", "isPopular": true },
+
+    { "name": "Thai Fried Rice", "price": "₹330", "description": "Authentic thai rice flavors", "category": "Rice", "isPopular": false },
+
+    { "name": "Indonesian Pepper Rice", "price": "₹350", "description": "Pepper infused asian rice", "category": "Rice", "isPopular": false },
+
+    { "name": "Korean BBQ Potato", "price": "₹290", "description": "Crispy korean potato bites", "category": "Starters", "isPopular": true },
+
+    { "name": "Crispy Siracha Vegetable", "price": "₹310", "description": "Crispy vegetables with siracha", "category": "Starters", "isPopular": true },
+
+    { "name": "Dumpling Chilli Soya", "price": "₹340", "description": "Spicy dumplings soy glaze", "category": "Starters", "isPopular": true },
+
+    { "name": "Corn Chilli Wontons", "price": "₹300", "description": "Crunchy corn filled wontons", "category": "Starters", "isPopular": false },
+
+    { "name": "Veg Spring Roll", "price": "₹260", "description": "Crispy vegetable stuffed rolls", "category": "Starters", "isPopular": true }
+  ],
+
+  "social": {
+    "instagram": "https://instagram.com/globalbinge",
+    "facebook": "https://facebook.com/globalbinge",
+    "twitter": "https://twitter.com/globalbinge"
+  },
+
+  "swiggy_link": "https://www.swiggy.com/restaurants/global-binge-by-ashraya-virar-virar-684014/dineout",
+  "zomato_link": "https://www.zomato.com/mumbai/global-binge-by-ashraya-nx-virar",
+  "whatsapp": "917745016789",
+
+  "map_embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3761.6883942446943!2d72.80275207498786!3d19.46899718181814!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7a9272a31160d%3A0xf215160126bead42!2sGlobal%20Binge%20by%20ashraya!5e0!3m2!1sen!2sin!4v1778382270459!5m2!1sen!2sin"
+},
+{
+  "id": 7,
+  "name": "FLAME Restaurant",
+  "slug": "flame-restaurant-virar-east",
+  "tagline": "Asian, Chinese & Maharashtrian Flavor Hub",
+  "description": "FLAME Restaurant in Virar East offers a vibrant dining experience with delicious Asian, Chinese, and Maharashtrian cuisine. Known for its flavorful soups, combo meals, spicy starters, and affordable pricing, the restaurant is a favorite among food lovers looking for tasty comfort food and quick service in a family-friendly ambiance.",
+  "cuisine": ["Asian", "Chinese", "Maharashtrian","Thai"
+  ],
+  "address": "Shop No. 12, Samrat Dynasty, Manvelpada Rd, near Mohak City, Ekvira Darshan, Virar East, Vasai-Virar, Maharashtra 401305",
+  "city": "Vasai-Virar",
+  "state": "Maharashtra",
+  "phone": "+91 87937 74879",
+  "email": "info@flamerestaurant.com",
+  "hours": "Mon–Sun: 12:00 PM – 11:30 PM",
+  "rating": 4.7,
+  "review_count": 69,
+  "price_range": "₹₹",
+  "isPremium": true,
+  "isActive": true,
+
+  "seo": {
+    "focus_keyword": "FLAME Restaurant Virar",
+    "meta_title": "FLAME Restaurant Virar East | Asian & Chinese Restaurant",
+    "meta_description": "Visit FLAME Restaurant in Virar East for delicious Asian, Chinese & Maharashtrian dishes with soups, combos and starters.",
+    "local_keywords": ["flame restaurant virar east","best chinese restaurant virar","asian restaurant manvelpada road","thai food virar east","flame restaurant menu",
+    "restaurants near mohak city"
+    ]
+  },
+
+  "images": [
+    "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHL9wSora-HUKm1UZGzJcYEBgwLd_s1O4_feZOlLxBDq0TZTS3ZedRwGN9xDtQYlYBXIPLaraA6MrBavWn73pjgUNCIS6bXoUmyNkGxAnjNrRBDKlqum-PvQi36mrs5q1yTU2Yv=s1360-w1360-h1020-rw",
+    "https://lh3.googleusercontent.com/proxy/rEZ6WFF59KvLuNIkJhxkIwwID4towPm2KYh1LFgt73wzU8xq8Dodfi7-7vX-Sonc-FXAjR9o93yMYn2ocTYsiCRtnnoDmmxB4Ppd2DoerHWVNzIjPNQVcmFnfhthjhTsXPFCHRyZtQ8p0OtrbF2IW2Pchvc2cg=s1360-w1360-h1020-rw",
+    "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEoOANytVz_THvMyiW7bd21v0q7Ww-3wNLAaJe01CWSnldWkII-YAWnSNhVkrV5RCEXEd0t3S9rpxeMAkoMjI7oiSqv9QZgaD57tdtwRSglxJxIfo9hDO8H7cpQ3nuEBw8BzOg=s1360-w1360-h1020-rw",
+    "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE6OIm5mKRwjPQQwfXNRGJwhmNPjIlMgvHWMFTfGITp-9wTiQR98umnvxg1Fu7jx2jvdg6ZOjjJlkPtha52lsZegReolVMOT-CZox9kQ7SmFX8r2VxKsEQRiPgYx1X2U7IfV-CsWg=s1360-w1360-h1020-rw",
+    "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHlznuV8MP1NI97h4IoM4VZfdmpwuBY1rz65GfkVTs5yOpwwBabcIczrmdab4JvKmKGtc6qdhimhrwNfE_o6RRGxAvbM4Y6U78hPamdtA17GUoJuQUDDmrsjtO_w5hhW-S5_6ADUvujvL_G=s1360-w1360-h1020-rw"
+  ],
+
+  "menu": [
+    { "name": "Chicken Chilly Main Course", "price": "₹340", "description": "Spicy chicken combo meal", "category": "Combos", "isPopular": true },
+
+    { "name": "Chicken Crispy Main Course", "price": "₹350", "description": "Crispy chicken rice combo", "category": "Combos", "isPopular": true },
+
+    { "name": "Paneer Chilli Main Course", "price": "₹300", "description": "Paneer chilli combo platter", "category": "Combos", "isPopular": true },
+
+    { "name": "Paneer Crispy Main Course", "price": "₹290", "description": "Crunchy paneer combo meal", "category": "Combos", "isPopular": false },
+
+    { "name": "Veg Crispy Main Course", "price": "₹260", "description": "Veg crispy rice combo", "category": "Combos", "isPopular": false },
+
+    { "name": "Veg Chilly Main Course", "price": "₹260", "description": "Spicy vegetable combo meal", "category": "Combos", "isPopular": true },
+
+    { "name": "Veg Clear Soup", "price": "₹160", "description": "Light healthy vegetable soup", "category": "Soups", "isPopular": false },
+
+    { "name": "Veg Flame Special Soup", "price": "₹180", "description": "Chef special veg soup", "category": "Soups", "isPopular": true },
+
+    { "name": "Veg Hot & Sour Soup", "price": "₹160", "description": "Tangy spicy veg broth", "category": "Soups", "isPopular": true },
+
+    { "name": "Veg Lemon Coriander Soup", "price": "₹160", "description": "Fresh lemon herb soup", "category": "Soups", "isPopular": false },
+
+    { "name": "Veg Manchow Soup", "price": "₹160", "description": "Chinese spicy noodle soup", "category": "Soups", "isPopular": true },
+
+    { "name": "Veg Sweet Corn Soup", "price": "₹160", "description": "Creamy sweet corn soup", "category": "Soups", "isPopular": false },
+
+    { "name": "Veg Tom Yum Soup", "price": "₹180", "description": "Thai spicy veg soup", "category": "Soups", "isPopular": true },
+
+    { "name": "Chicken Clear Soup", "price": "₹170", "description": "Classic chicken broth soup", "category": "Soups", "isPopular": false },
+
+    { "name": "Chicken Flame Special Soup", "price": "₹210", "description": "Special chicken soup delight", "category": "Soups", "isPopular": true },
+
+    { "name": "Chicken Hot & Sour Soup", "price": "₹170", "description": "Tangy spicy chicken broth", "category": "Soups", "isPopular": true },
+
+    { "name": "Chicken Manchow Soup", "price": "₹170", "description": "Chicken chinese spicy soup", "category": "Soups", "isPopular": true },
+
+    { "name": "Chicken Tom Yum Soup", "price": "₹210", "description": "Thai chicken soup special", "category": "Soups", "isPopular": true },
+
+    { "name": "Cauliflower Chilly", "price": "₹210", "description": "Spicy cauliflower starter bites", "category": "Starters", "isPopular": false },
+
+    { "name": "Veg Crispy Chilly", "price": "₹220", "description": "Crunchy spicy vegetable starter", "category": "Starters", "isPopular": true }
+  ],
+
+  "social": {
+    "instagram": "https://instagram.com/flamerestaurant",
+    "facebook": "https://facebook.com/flamerestaurant",
+    "twitter": "https://twitter.com/flamerestaurant"
+  },
+
+  "swiggy_link": "https://www.swiggy.com/city/mumbai/flame-family-restaurant-virar-rest1167925",
+  "zomato_link": "https://www.zomato.com/mumbai/flame-restaurant-virar",
+  "whatsapp": "918793774879",
+
+  "map_embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d240786.7317179459!2d72.51370329453125!3d19.4429439!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7a9da0d374e3d%3A0x90cdf75e7e886d10!2sFLAME%20Restaurant!5e0!3m2!1sen!2sin!4v1778382869724!5m2!1sen!2sin"
+},
+{
+  "id": 8,
+  "name": "Bhingari By Haveli Garden Restaurant & Bar",
+  "slug": "bhingari-haveli-garden-virar",
+  "tagline": "Cocktails, Mughlai & Garden Bar Experience",
+  "description": "Bhingari By Haveli Garden Restaurant & Bar in Virar offers a vibrant nightlife and dining experience with signature cocktails, Mughlai delicacies, kebabs, Chinese cuisine, and outdoor seating ambiance. Known for its creative drinks, energetic atmosphere, and flavorful dishes, Bhingari is a popular destination for parties, casual hangouts, and late-night dining in Virar.",
+  "cuisine": ["Mughlai", "Chinese", "North Indian", "Kebab", "Biryani", "Bar Food"
+  ],
+  "address": "Agarwal Road, behind BIG BAZAR Narangi Bypass Road, YK Nagar NX Rd, Vasai-Virar, Maharashtra 401303",
+  "city": "Vasai-Virar",
+  "state": "Maharashtra",
+  "phone": "+91 91078 42222",
+  "email": "info@bhingari.com",
+  "hours": "Mon–Sun: 3:00 PM – 1:00 AM",
+  "rating": 4.3,
+  "review_count": 1160,
+  "price_range": "₹₹₹",
+  "isPremium": true,
+  "isActive": true,
+
+  "seo": {
+    "focus_keyword": "Bhingari Virar",
+    "meta_title": "Bhingari By Haveli Garden Restaurant & Bar Virar",
+    "meta_description": "Visit Bhingari By Haveli Garden Restaurant & Bar in Virar for cocktails, Mughlai food, kebabs & outdoor dining experience.",
+    "local_keywords": [ "bhingari virar", "restaurant and bar virar", "cocktail bar virar west", "mughlai restaurant virar", "bhingari menu", "restaurants near big bazar virar"
+    ]
+  },
+
+  "images": [
+    "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGSu2ygExUC3ahALJENutp5JFlkx1oESG4jGk93aoaS12TU94RlckZRwYKMG_13EE6hCk0KaNmvAdgpx6FD4LygPlinywBYkRPEm9NC2XDmtAjVt9wt0jxh8Un5HYaaVcmQjGFIz-XyPcb_=s1360-w1360-h1020-rw",
+    "https://lh3.googleusercontent.com/p/AF1QipPMrHiOpxUesP-ADjWggFjq_wTAJD4bpA19JnXM=s1360-w1360-h1020-rw",
+    "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEo7dRtnafNtafebxbbZSfCk5GdOQ8aTPOg-MSsYw1J_xEV2d0vCC9zIXBIK1TJ8IBEO9aqFRiLkxv5Grv3-rYLfAsLAcmZODiX77t-9ri96RBIakgtf_ikG8NtMX9eEQ6mMARq=s1360-w1360-h1020-rw",
+    "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF6fbfwGLjm8932eRgzmau1EV5aR09emt0y9E1zhu2SK1N4lCuKmyqgZ1dfGJaBKZSQr_f84DvgaXNBa7Z5b-98eUSvk-CW1hl24dF2ID3IWg37_44yv-eeJCtr7f_wS3BY13R1qCDxvY_d=s1360-w1360-h1020-rw",
+    "https://lh3.googleusercontent.com/p/AF1QipPqzwGaHnTXX-rOmK5HWMRCZc8tiM15xJZw92kQ=s1360-w1360-h1020-rw"
+  ],
+
+  "menu": [
+    { "name": "Bhingari Fast", "price": "₹399", "description": "Whiskey cinnamon apple cocktail", "category": "Cocktails", "isPopular": true },
+
+    { "name": "Toofani Jaapani", "price": "₹399", "description": "Japanese whiskey fusion drink", "category": "Cocktails", "isPopular": true },
+
+    { "name": "The Wildwest", "price": "₹399", "description": "Coffee whiskey flavored cocktail", "category": "Cocktails", "isPopular": false },
+
+    { "name": "Honey, I Lost The Kids", "price": "₹399", "description": "Honey whiskey fruity delight", "category": "Cocktails", "isPopular": true },
+
+    { "name": "Caribbean Coffee", "price": "₹399", "description": "Tequila coconut coffee fusion", "category": "Cocktails", "isPopular": true },
+
+    { "name": "Red Riding Hood", "price": "₹399", "description": "Vodka pomegranate rose cocktail", "category": "Cocktails", "isPopular": true },
+
+    { "name": "Bunny's Drink", "price": "₹399", "description": "Vodka carrot wine blend", "category": "Cocktails", "isPopular": false },
+
+    { "name": "Revival", "price": "₹399", "description": "Gin turmeric elderflower cocktail", "category": "Cocktails", "isPopular": true },
+
+    { "name": "The Wise Monk", "price": "₹399", "description": "Rum mint lemongrass fusion", "category": "Cocktails", "isPopular": false },
+
+    { "name": "The One With The Fish", "price": "₹399", "description": "Kokum blueberry rum cocktail", "category": "Cocktails", "isPopular": true },
+
+    { "name": "Casanova", "price": "₹399", "description": "Whiskey peach absinthe blend", "category": "Cocktails", "isPopular": true },
+
+    { "name": "Bohot-Hard-Di", "price": "₹429", "description": "Beer rum orange fusion", "category": "Cocktails", "isPopular": true },
+
+    { "name": "Khush Kismat Kada", "price": "₹429", "description": "Masala tea whiskey cocktail", "category": "Cocktails", "isPopular": false },
+
+    { "name": "Chemical Locha", "price": "₹799", "description": "Large vodka fruit cocktail", "category": "Cocktails", "isPopular": true },
+
+    { "name": "Citric Acid", "price": "₹249", "description": "Tangy pineapple citrus mocktail", "category": "Mocktails", "isPopular": true },
+
+    { "name": "Cafe Bhingari", "price": "₹249", "description": "Creamy espresso almond cooler", "category": "Mocktails", "isPopular": true },
+
+    { "name": "Mango Bite", "price": "₹249", "description": "Sweet mango refreshing cooler", "category": "Mocktails", "isPopular": true },
+
+    { "name": "Berry Berry", "price": "₹249", "description": "Berry flavored sparkling mocktail", "category": "Mocktails", "isPopular": false },
+
+    { "name": "G-Faad", "price": "₹399", "description": "Strong creamy layered shot", "category": "Shots", "isPopular": true },
+
+    { "name": "Jagerbomb", "price": "₹499", "description": "Classic energetic party shot", "category": "Shots", "isPopular": true }
+  ],
+
+  "social": {
+    "instagram": "https://instagram.com/bhingari",
+    "facebook": "https://facebook.com/bhingari",
+    "twitter": "https://twitter.com/bhingari"
+  },
+
+  "swiggy_link": "https://www.swiggy.com/restaurants/bhingari-restaurant-&-bar-virar-virar-687099/dineout",
+  "zomato_link": "https://www.zomato.com/mumbai/bhingari-restaurant-bar-virar",
+  "whatsapp": "919107842222",
+
+  "map_embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3761.7963815546636!2d72.80202447498766!3d19.464343881821847!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7ab958b91d29f%3A0x4233e5849d050551!2sBhingari%20By%20Haveli%20Garden%20Restaurant%20%26%20Bar!5e0!3m2!1sen!2sin!4v1778383849053!5m2!1sen!2sin"
+},
+{
+  "id": 9,
+  "name": "Ashraya's Pure Veg",
+  "slug": "ashrayas-pure-veg-virar-east",
+  "tagline": "Pure Vegetarian Family Dining Experience",
+  "description": "Ashraya's Pure Veg in Virar East offers a delicious vegetarian dining experience with North Indian, Chinese, South Indian, Fast Food, and Street Food specialties. Known for its affordable pricing, family-friendly ambiance, tasty upvas dishes, and authentic snacks, the restaurant is a popular choice for breakfast, casual dining, and vegetarian food lovers in Virar.",
+  "cuisine": [ "North Indian", "Chinese", "South Indian", "Fast Food", "Street Food", "Vegetarian"
+  ],
+  "address": "Shop No. 12/63, Pandarinath Chaudhary Marg, next to Amba Mata Temple, Virar East, Maharashtra 401305",
+  "city": "Vasai-Virar",
+  "state": "Maharashtra",
+  "phone": "+91 73787 86789",
+  "email": "info@ashrayaspureveg.com",
+  "hours": "Mon–Sun: 9:30 AM – 11:30 PM",
+  "rating": 4.1,
+  "review_count": 540,
+  "price_range": "₹₹",
+  "isPremium": true,
+  "isActive": true,
+
+  "seo": {
+    "focus_keyword": "Ashraya's Pure Veg Virar",
+    "meta_title": "Ashraya's Pure Veg Virar East | Family Veg Restaurant",
+    "meta_description": "Visit Ashraya's Pure Veg in Virar East for delicious vegetarian North Indian, South Indian & street food dishes.",
+    "local_keywords": ["ashrayas pure veg virar","veg restaurant virar east","south indian restaurant virar", "best pav bhaji virar east", "pure veg restaurant near amba mata temple","ashraya menu"
+    ]
+  },
+
+  "images": [
+    "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHs7qfDvDCZJRAYNXHmXTdC6esQQxcxtD1eGlj5ALKjRpboGxgjhZB64KYPNA4RFuVEBOoxU1GAXpnOdorYa6mkRum1__aoOmXT9WUGhp5AC63q3odh10gmPD1swKiq7HM8djnyXdYUCSuJ=s1360-w1360-h1020-rw",
+    "https://lh3.googleusercontent.com/p/AF1QipMxldL8D2BptkizNx9oSPWEbIsIfES-L7cQTcSb=s1360-w1360-h1020-rw",
+    "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHlohbVBrnqnoF131J3R0OhchJwtO_kR7KwE7EYR2PmDvxCusVXZaReBOY5C9nlvQAdD383pCOEoZ4-8kVHRN7uGF47KQMdr-N4Z7ccBGO2JUbo8rkQIMxAJzz0orj33MBqLMbr=s1360-w1360-h1020-rw",
+    "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFTZAbzhHq7UfDE7DgySo4oYdW0WiUd2zKhb_TZ2Myk1tfFPIboeX-UPzVyuk8llzXHKlRh_Mn_z5ugPz9Emd1rCiGETHNhKSlJ26hgaJtFyL_eAHQjDSXCMjTOx-mlLar5M_pXpumcSko=s1360-w1360-h1020-rw",
+    "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEMbKmBfSccExppz44_UWGXhou2TS0QYw1bf_jX9AtuW98dOD_TZFXKkJxP1XUqQzym07urP0qsKQw8NTpEP7t92V_fhTO40RAvLLbFRTs_5-8XoisRNZb8lZBSyM-_CysoDgXmwGdP7qAw=s1360-w1360-h1020-rw"
+  ],
+
+  "menu": [
+    { "name": "Veg Ashraya's Special", "price": "₹280", "description": "Chef special veg delight", "category": "Upvas Special", "isPopular": true },
+
+    { "name": "Sabudana Vada", "price": "₹100", "description": "Crispy fasting potato snack", "category": "Upvas Special", "isPopular": true },
+
+    { "name": "Veg Tiranga", "price": "₹300", "description": "Three flavor veg curry", "category": "Upvas Special", "isPopular": false },
+
+    { "name": "Sabudana Khichdi", "price": "₹100", "description": "Classic fasting sabudana dish", "category": "Upvas Special", "isPopular": true },
+
+    { "name": "Kaju Masala", "price": "₹260", "description": "Rich cashew curry special", "category": "Upvas Special", "isPopular": true },
+
+    { "name": "Sweet Kachori", "price": "₹120", "description": "Sweet stuffed crispy snack", "category": "Upvas Special", "isPopular": false },
+
+    { "name": "Kaju Paneer Masala", "price": "₹260", "description": "Paneer cashew creamy curry", "category": "Upvas Special", "isPopular": true },
+
+    { "name": "Finger Chips", "price": "₹130", "description": "Crispy golden potato fries", "category": "Snacks", "isPopular": true },
+
+    { "name": "Veg Patiyala", "price": "₹250", "description": "Rich north indian curry", "category": "Main Course", "isPopular": false },
+
+    { "name": "Veg Diwani Handi", "price": "₹230", "description": "Mixed vegetable handi curry", "category": "Main Course", "isPopular": true },
+
+    { "name": "Nargis Kofta", "price": "₹280", "description": "Stuffed kofta gravy delight", "category": "Main Course", "isPopular": true },
+
+    { "name": "Veg Maharaja Special", "price": "₹300", "description": "Royal mixed veg curry", "category": "Main Course", "isPopular": true },
+
+    { "name": "Idli", "price": "₹70", "description": "Soft steamed rice cakes", "category": "South Indian", "isPopular": true },
+
+    { "name": "Medu Vada", "price": "₹80", "description": "Crispy south indian vada", "category": "South Indian", "isPopular": true },
+
+    { "name": "Idli Vada Mix", "price": "₹80", "description": "Classic idli vada combo", "category": "South Indian", "isPopular": true },
+
+    { "name": "Butter Idli", "price": "₹80", "description": "Soft buttery idli bites", "category": "South Indian", "isPopular": false },
+
+    { "name": "Misal Pav", "price": "₹100", "description": "Spicy maharashtrian curry snack", "category": "Street Food", "isPopular": true },
+
+    { "name": "Pav Bhaji", "price": "₹120", "description": "Classic buttery bhaji pav", "category": "Pav Bhaji", "isPopular": true },
+
+    { "name": "Cheese Pav Bhaji", "price": "₹150", "description": "Cheesy spicy bhaji delight", "category": "Pav Bhaji", "isPopular": true },
+
+    { "name": "Special Pav Bhaji", "price": "₹180", "description": "Loaded special pav bhaji", "category": "Pav Bhaji", "isPopular": true }
+  ],
+
+  "social": {
+    "instagram": "https://instagram.com/ashrayaspureveg",
+    "facebook": "https://facebook.com/ashrayaspureveg",
+    "twitter": "https://twitter.com/ashrayaspureveg"
+  },
+
+  "swiggy_link": "https://www.swiggy.com/city/mumbai/ashrayas-pure-veg-virar-rest1028248",
+  "zomato_link": "https://www.zomato.com/mumbai/ashrayas-pure-veg-virar",
+  "whatsapp": "917378786789",
+
+  "map_embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3761.945983710405!2d72.80934037498758!3d19.457895581826904!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7a9a9d0661ca9%3A0x7ad100013bd70784!2sAshraya&#39;s%20Pure%20Veg.!5e0!3m2!1sen!2sin!4v1778384438986!5m2!1sen!2sin"
+},
+{
+  "id": 10,
+  "name": "Sheetal Aroma Pure Veg",
+  "slug": "sheetal-aroma-pure-veg-virar-east",
+  "tagline": "Pure Veg Family Restaurant & South Indian Delights",
+  "description": "Sheetal Aroma Pure Veg in Virar East offers a delicious vegetarian dining experience with South Indian dishes, breakfast specials, Chinese starters, soups, and fast food favorites. Known for its crispy dosas, flavorful snacks, and family-friendly ambiance, the restaurant is a popular choice for casual dining and vegetarian comfort food lovers.",
+  "cuisine": [ "South Indian", "Chinese", "Fast Food", "Continental", "Vegetarian"
+  ],
+  "address": "Shop No. 1, DGS Sheetal Abhishek Bldg, next to Radiant Hospital, Ekvira Darshan, Virar East, Vasai-Virar, Maharashtra 401305",
+  "city": "Vasai-Virar",
+  "state": "Maharashtra",
+  "phone": "+91 77740 86665",
+  "email": "info@sheetalaroma.com",
+  "hours": "Mon–Sun: 8:00 AM – 12:30 AM",
+  "rating": 4.5,
+  "review_count": 48,
+  "price_range": "₹₹",
+  "isPremium": true,
+  "isActive": true,
+
+  "seo": {
+    "focus_keyword": "Sheetal Aroma Virar",
+    "meta_title": "Sheetal Aroma Pure Veg Virar East | South Indian Restaurant",
+    "meta_description": "Visit Sheetal Aroma Pure Veg in Virar East for delicious South Indian dishes, breakfast combos, soups and vegetarian meals.",
+    "local_keywords": ["sheetal aroma virar","pure veg restaurant virar east","best dosa virar east","south indian restaurant ekvira darshan","sheetal aroma menu",
+      "veg restaurant near radiant hospital"
+    ]
+  },
+
+  "images": [
+    "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGRwQanE9kL2SXamiDTWdJ7rMupRS0e7HOSRQHx0N3l2LZf24ztQo8PmmLPpnE1BhI8juHc5AspYf2SO-4W36L2E1Np9OSdEej12cn4O_ztj4foEtpHnQ7PLOZ54V3q3vB6HdXvlUywTCZH=s1360-w1360-h1020-rw",
+    "https://lh3.googleusercontent.com/p/AF1QipOmBIp3vyV_f6FlRxnDQiqM0aYIMV1dO4z5DoL9=s1360-w1360-h1020-rw",
+    "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHB7ZSFhfgnW9HGnitsQ12fCL9U_ptPvKV04l6tojUUAjc5-YDsU6Yc4hYHakhL3fb3SbYVSab05hplht9WVYJpLcs3bG63edF4cGF_W58VSBTGfmfTGKEuhetzsYWweK7FI6EauM_xP-8=s1360-w1360-h1020-rw",
+    "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEVxWj0lCv8FkvD_DD1cHQJCw1K7lJNasbRFaJ47GtCUhjePui7ZcuY8StlZKBPRncrJDqKazdiZCAZtdP7JYG1rCwo-92C_AT0HBzrnJ3EGPpe0z7JMBPRU1Elk3mqWR1WS8yVpuP3VUk=s1360-w1360-h1020-rw",
+    "https://lh3.googleusercontent.com/p/AF1QipNOgEyv_hG7lByGVBkfY_CDwN4SK0tPDqUvdyEw=s1360-w1360-h1020-rw"
+  ],
+
+  "menu": [
+    { "name": "Veg Cutlet", "price": "₹100", "description": "Crispy vegetable snack delight", "category": "Breakfast", "isPopular": true },
+
+    { "name": "Paneer Pakoda", "price": "₹140", "description": "Crunchy paneer fritters special", "category": "Breakfast", "isPopular": true },
+
+    { "name": "Cheese Pakoda", "price": "₹160", "description": "Cheesy crispy fried bites", "category": "Breakfast", "isPopular": false },
+
+    { "name": "Puri Bhaji", "price": "₹120", "description": "Classic breakfast curry combo", "category": "Breakfast", "isPopular": true },
+
+    { "name": "Dahi Misal", "price": "₹100", "description": "Spicy misal with curd", "category": "Breakfast", "isPopular": true },
+
+    { "name": "Upma", "price": "₹70", "description": "Soft savory breakfast dish", "category": "Breakfast", "isPopular": false },
+
+    { "name": "Idli Wada", "price": "₹90", "description": "Classic south indian combo", "category": "Breakfast", "isPopular": true },
+
+    { "name": "Sabudana Khichdi", "price": "₹110", "description": "Traditional fasting special meal", "category": "Upvas", "isPopular": true },
+
+    { "name": "Sabudana Vada", "price": "₹85", "description": "Crispy sabudana potato snack", "category": "Upvas", "isPopular": true },
+
+    { "name": "Masala Uttappam", "price": "₹110", "description": "Vegetable topped soft uttappam", "category": "South Indian", "isPopular": true },
+
+    { "name": "Paper Sada Dosa", "price": "₹200", "description": "Crispy paper thin dosa", "category": "South Indian", "isPopular": true },
+
+    { "name": "Onion Rava Masala Dosa", "price": "₹130", "description": "Crunchy onion rava dosa", "category": "South Indian", "isPopular": true },
+
+    { "name": "Mysore Masala Dosa", "price": "₹120", "description": "Spicy mysore masala dosa", "category": "South Indian", "isPopular": true },
+
+    { "name": "Masala Dosa", "price": "₹100", "description": "Classic potato stuffed dosa", "category": "South Indian", "isPopular": true },
+
+    { "name": "Butter Paper Masala Dosa", "price": "₹220", "description": "Buttery crispy masala dosa", "category": "South Indian", "isPopular": true },
+
+    { "name": "Cheese Paper Masala Dosa", "price": "₹280", "description": "Loaded cheesy crispy dosa", "category": "South Indian", "isPopular": false },
+
+    { "name": "Cheese Corn Balls", "price": "₹260", "description": "Cheesy crispy corn bites", "category": "Starters", "isPopular": true },
+
+    { "name": "Garlic Bread", "price": "₹230", "description": "Toasted garlic flavored bread", "category": "Starters", "isPopular": false },
+
+    { "name": "French Fries", "price": "₹250", "description": "Golden crispy potato fries", "category": "Starters", "isPopular": true },
+
+    { "name": "Nachos With Cheese Salsa Dip", "price": "₹250", "description": "Crunchy nachos cheesy dip", "category": "Starters", "isPopular": true }
+  ],
+
+  "social": {
+    "instagram": "https://instagram.com/sheetalaroma",
+    "facebook": "https://facebook.com/sheetalaroma",
+    "twitter": "https://twitter.com/sheetalaroma"
+  },
+
+  "swiggy_link": "https://www.swiggy.com/city/mumbai/sheetal-aroma-virar-rest1353975",
+  "zomato_link": "https://zomato.com",
+  "whatsapp": "917774086665",
+
+  "map_embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3762.193933430872!2d72.81185137498726!3d19.44720368183536!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7a9d00654a2ad%3A0x5441605259a6c065!2sSheetal%20Aroma%20Pure%20Veg!5e0!3m2!1sen!2sin!4v1778385162177!5m2!1sen!2sin"
+},
+{
+  "id": 11,
+  "name": "New Swad Fine Dine Restaurant",
+  "slug": "new-swad-fine-dine-virar-west",
+  "tagline": "Fine Dine Multi Cuisine Experience",
+  "description": "New Swad Fine Dine Restaurant in Virar West offers a premium dining experience with Continental, Chinese, Pizza, Pasta, and Asian delicacies. Known for flavorful chicken dishes, sizzling starters, handcrafted pizzas, and elegant ambiance, the restaurant is a popular destination for casual fine dining and family gatherings.",
+  "cuisine": ["Continental","Chinese","Italian","Asian","Pizza","Pasta"
+  ],
+  "address": "Shop No. 1 & 2, Bhaji Gali, Virat Nagar, Virar West, Vasai-Virar, Maharashtra 401303",
+  "city": "Vasai-Virar",
+  "state": "Maharashtra",
+  "phone": "+91 76900 74003",
+  "email": "info@newswadfinedine.com",
+  "hours": "Mon–Sun: 11:00 AM – 11:30 PM",
+  "rating": 4.0,
+  "review_count": 429,
+  "price_range": "₹₹₹",
+  "isPremium": true ,
+  "isActive": true,
+
+  "seo": {
+    "focus_keyword": "New Swad Fine Dine Virar",
+    "meta_title": "New Swad Fine Dine Restaurant Virar West",
+    "meta_description": "Enjoy continental, pizza, pasta and Chinese dishes at New Swad Fine Dine Restaurant in Virar West.",
+    "local_keywords": [ "new swad virar","fine dine restaurant virar west","best pizza in virar", "continental restaurant virar", "new swad menu", "family restaurant virar west"
+    ]
+  },
+
+  "images": [
+    "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG8i51sCDIrfi6_UP13dFlczaJW_L8oPpRowkc8C1cYgCvta-u6VLg5B4oyJ_-qmm6a8BXCo4gobUU9Zeyr6yo2uuOiA-EnatS3GX8qqgyWsrGVK5OPiuKkoNHVqx-k4MULWq_G0X1ngeRU=s1360-w1360-h1020-rw",
+    "https://lh3.googleusercontent.com/p/AF1QipMFcAUsLorPkOm2T_d1KwicYbfxkBmtGRKF1icE=s1360-w1360-h1020-rw",
+    "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFj6LpTIKNqS6vGLILxyi9YEiseeGZeWpav9MdCMpo98tCvoLHalYMaj0pKhNdH2-YFut8shfXsaY95b29wLItWGCuHNECnAF1Pqajmnrwiq2rV94oL-hzmgzQMCu4yCg-feu3J=s1360-w1360-h1020-rw",
+    "https://lh3.googleusercontent.com/p/AF1QipMgK9eifbcm6w6wf46jbfpGyUPPeYK2Is_NPsWU=s1360-w1360-h1020-rw",
+    "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGRkjn_Ae0nj_eyaojQO5h2jpLo9XPXZewi9YHIuqxypshQxWUcvSSiFdc2AHhKQk9UMv9qArA2HTvLWHwYKNtUfYOp-hbNgu-gNEmBPmTmgfm7xbYmtBwNGW9E9gTrXphb3_LkCB0MGK5Q=s1360-w1360-h1020-rw"
+  ],
+
+  "menu": [
+    { "name": "Chicken Napoli", "price": "₹585", "description": "Creamy continental chicken specialty", "category": "Continental", "isPopular": true },
+
+    { "name": "Pepper Cheese Chicken Steak", "price": "₹585", "description": "Juicy cheesy pepper steak", "category": "Continental", "isPopular": true },
+
+    { "name": "Hot Garlic Chicken", "price": "₹585", "description": "Spicy garlic flavored chicken", "category": "Continental", "isPopular": true },
+
+    { "name": "Szechuan Pepper Chicken Shashlik", "price": "₹585", "description": "Spicy grilled chicken skewers", "category": "Continental", "isPopular": false },
+
+    { "name": "British Beer Batter Fish And Chips", "price": "₹355", "description": "Crispy fish fries combo", "category": "Continental", "isPopular": true },
+
+    { "name": "Super Loaded Nachos With Chicken", "price": "₹325", "description": "Loaded cheesy chicken nachos", "category": "Starters", "isPopular": true },
+
+    { "name": "Tangy Italian Chicken Bite", "price": "₹325", "description": "Tangy italian chicken snack", "category": "Starters", "isPopular": false },
+
+    { "name": "Chicken Steak Quasadilla", "price": "₹325", "description": "Cheesy grilled chicken quesadilla", "category": "Starters", "isPopular": true },
+
+    { "name": "Bang Bang Chicken Wings", "price": "₹325", "description": "Spicy crispy chicken wings", "category": "Starters", "isPopular": true },
+
+    { "name": "Chicken Spring Roll", "price": "₹325", "description": "Crunchy chicken roll starter", "category": "Starters", "isPopular": true },
+
+    { "name": "Chicken Lolypop", "price": "₹325", "description": "Crispy spicy chicken lollypop", "category": "Starters", "isPopular": true },
+
+    { "name": "Tempura Prawns", "price": "₹575", "description": "Golden crispy prawn tempura", "category": "Starters", "isPopular": true },
+
+    { "name": "Green Garden Pesto Chicken Pizza", "price": "₹365", "description": "Fresh pesto chicken pizza", "category": "Pizza", "isPopular": true },
+
+    { "name": "Mac N Cheese Chicken Pizza", "price": "₹365", "description": "Cheesy mac chicken pizza", "category": "Pizza", "isPopular": true },
+
+    { "name": "Tandoori Chicken Pizza", "price": "₹365", "description": "Indian style chicken pizza", "category": "Pizza", "isPopular": true },
+
+    { "name": "Mutton Kheema Pizza", "price": "₹425", "description": "Loaded spicy kheema pizza", "category": "Pizza", "isPopular": true },
+
+    { "name": "Penne Alfredo", "price": "₹325", "description": "Creamy white sauce pasta", "category": "Pasta", "isPopular": true },
+
+    { "name": "Spaghetti Arrabiata", "price": "₹325", "description": "Spicy tomato sauce pasta", "category": "Pasta", "isPopular": false },
+
+    { "name": "Chicken Fried Rice", "price": "₹295", "description": "Classic chicken fried rice", "category": "Rice & Noodles", "isPopular": true },
+
+    { "name": "Chicken Thai Curry With Jasmine Rice", "price": "₹425", "description": "Authentic thai curry combo", "category": "Rice & Noodles", "isPopular": true }
+  ],
+
+  "social": {
+    "instagram": "https://instagram.com/newswadfinedine",
+    "facebook": "https://facebook.com/newswadfinedine",
+    "twitter": "https://twitter.com/newswadfinedine"
+  },
+
+  "swiggy_link": "https://www.swiggy.com/city/mumbai/hotel-new-swad-virar-rest1028782",
+  "zomato_link": "https://www.zomato.com/mumbai/new-swad-virar",
+  "whatsapp": "917690074003",
+
+  "map_embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3762.110654988701!2d72.80352077498732!3d19.45079538183242!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7a9004f625c13%3A0xc910dd41f69cace!2sNew%20Swad%20Fine%20Dine%20Restaurant!5e0!3m2!1sen!2sin!4v1778386843654!5m2!1sen!2sin"
+},
+{
+  "id": 12,
+  "name": "VV Restaurant & Bar",
+  "slug": "vv-restaurant-bar-virar-west",
+  "tagline": "Popular Family Restaurant & Bar",
+  "description": "VV Restaurant & Bar in Virar West is a well-known North Indian restaurant near Virar Railway Station offering Chinese, Sichuan, Kebab, Biryani, Malwani, and Tandoori dishes. Famous for chicken starters, mutton specialties, seafood dishes, and family dining experience.",
+  "cuisine": ["North Indian","Chinese","Sichuan","Kebab","Biryani","Malwani" ],
+  "address": "Raja Chatrapati Shivaji Marg, near Virar Railway Station, Viva Super Market, Vartak Ward, Virar West, Vasai-Virar, Maharashtra 401303",
+  "city": "Vasai-Virar",
+  "state": "Maharashtra",
+  "phone": "+91 81044 13350",
+  "email": "info@vvrestaurantbar.com",
+  "hours": "Mon–Sun: 10:00 AM – 12:00 AM",
+  "rating": 4.0,
+  "review_count": 1498,
+  "price_range": "₹₹₹",
+  "isPremium": true,
+  "isActive": true,
+  "seo": {
+    "focus_keyword": "VV Restaurant Bar Virar",
+    "meta_title": "VV Restaurant & Bar Virar West",
+    "meta_description": "Enjoy North Indian, Chinese, kebabs and Malwani dishes at VV Restaurant & Bar in Virar West.",
+    "local_keywords": ["vv restaurant virar", "vv bar virar west", "restaurant near virar station", "best chicken starter virar","family restaurant virar west"
+    ]
+  },
+  "images": [
+    "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFQfx4szkxHEwEwKAwxzFBSe1i0yjERBtd1mLV7OhlQ6fvT4jh6ZgYBBa4M2qCxPvmAszAsV5Gj5rNOTcxPkb4_r7tDk8p6TTi711_8I3hOTMGwfJyzBnU2suund1FWmoFttq8Y=s1360-w1360-h1020-rw",
+    "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF4Bb53pSfStQi1-c4k15T-Pt3-UyRNxOzayNgxEI1STBljefttlChpgGXdOSq5R2v-oDZYRAk4YmjioZUWfd5ui3WdW4ui3xJ9Uk0GTEwv_QtfPZ8eKTrAs4pu97GhVPp88E0g=s1360-w1360-h1020-rw",
+    "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGLUQRYDivDYoUgJ5Y1wElbBR2s4j5wlDty2oCV4w2RepaMjghEjt6A1190NqIm2IA9eDTctKOehmTyknK90mNHTlpBR7dHL3I5n_hg21WEXq7tRWWqEHpqKuALKmzTeXvQej8=s1360-w1360-h1020-rw",
+    "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHDyJY_vMSrnRPxAf3rRcUPskrI7WDKKo4or7fLdTNnDn1_pGnL9wPdUaW9VSwjvLO-TgLLOJkWsg6XJxkY3DwF89UNo_0H1eJYa9EB4F29NJGXyT1KjfQMJ6uEVtahgA7oXwI=s1360-w1360-h1020-rw",
+    "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFIRXiOEBhkPdIDkB7NbQHprsS9iWDe0H35HgyW34CHM-hAFXI8o9BjG1ESlg7DIG1SL2cg6er1WE7d9z_Kni7rq5ZgzymULged0lpdrSYkM4lpMQ_Yjk5g0urQeFrPiZDh0e8g=s1360-w1360-h1020-rw"
+  ],
+  "menu": [
+    { "name": "Aloo Chat", "price": "₹150", "description": "Spicy crispy potato snack", "category": "Veg Snacks", "isPopular": true },
+    { "name": "Finger Chips", "price": "₹110", "description": "Classic salted french fries", "category": "Veg Snacks", "isPopular": true },
+    { "name": "Veg Pakoda", "price": "₹150", "description": "Crunchy mixed veg fritters", "category": "Veg Snacks", "isPopular": false },
+    { "name": "Kanda Bhajiya", "price": "₹150", "description": "Crispy onion bhaji snack", "category": "Veg Snacks", "isPopular": true },
+    { "name": "Paneer Pakoda", "price": "₹200", "description": "Crispy paneer pakoda bites", "category": "Veg Snacks", "isPopular": true },
+    { "name": "Paneer Koliwada", "price": "₹210", "description": "Spicy fried paneer cubes", "category": "Veg Snacks", "isPopular": true },
+    { "name": "Chicken Pakoda", "price": "₹295", "description": "Crispy spicy chicken bites", "category": "Chicken Starter", "isPopular": true },
+    { "name": "Chicken Koliwada", "price": "₹295", "description": "Maharashtrian fried chicken starter", "category": "Chicken Starter", "isPopular": true },
+    { "name": "Chicken Ghee Roast", "price": "₹340", "description": "Rich spicy ghee chicken", "category": "Chicken Starter", "isPopular": true },
+    { "name": "Chicken Masala Fry", "price": "₹340", "description": "Spicy masala coated chicken", "category": "Chicken Starter", "isPopular": true },
+    { "name": "Chicken Tawa Fry B/L", "price": "₹330", "description": "Boneless spicy tawa chicken", "category": "Chicken Starter", "isPopular": true },
+    { "name": "Chicken Angara Kabab", "price": "₹340", "description": "Smoky grilled chicken kabab", "category": "Tandoor", "isPopular": true },
+    { "name": "Chicken Matka Kabab", "price": "₹540", "description": "Special matka style kabab", "category": "Tandoor", "isPopular": true },
+    { "name": "Masala Omelet", "price": "₹105", "description": "Spicy fluffy masala omelet", "category": "Egg Specials", "isPopular": true },
+    { "name": "Egg Bhurji", "price": "₹125", "description": "Indian style scrambled eggs", "category": "Egg Specials", "isPopular": true },
+    { "name": "Mutton Kheema Masala", "price": "₹345", "description": "Spicy minced mutton curry", "category": "Mutton Specials", "isPopular": true },
+    { "name": "Mutton Koliwada", "price": "₹405", "description": "Fried spicy koliwada mutton", "category": "Mutton Specials", "isPopular": true },
+    { "name": "Mutton Sukka", "price": "₹345", "description": "Dry spicy mutton masala", "category": "Mutton Specials", "isPopular": true },
+    { "name": "Paneer Tikka", "price": "₹265", "description": "Classic smoky paneer tikka", "category": "Veg Tandoor", "isPopular": true },
+    { "name": "Prawns Gassi", "price": "₹375", "description": "Coastal prawns coconut curry", "category": "Seafood", "isPopular": true }
+  ],
+  "social": {
+    "instagram": "https://instagram.com/vvrestaurantbar",
+    "facebook": "https://facebook.com/vvrestaurantbar",
+    "twitter": "https://twitter.com/vvrestaurantbar"
+  },
+
+  "swiggy_link": "https://www.swiggy.com/",
+  "zomato_link": "https://www.zomato.com/mumbai/hotel-v-v-virar",
+  "whatsapp": "918104413350",
+
+  "map_embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3762.0181356827475!2d72.8085938749874!3d19.454784881829315!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7a990450ead29%3A0x5569853de2703386!2sVV%20restaurant%20%26%20bar!5e0!3m2!1sen!2sin!4v1778480342612!5m2!1sen!2sin"
+},
+{
+  "id": 13,
+  "name": "Shubh Sagar Pure Veg Restaurant",
+  "slug": "shubh-sagar-pure-veg-virar-west",
+  "tagline": "Pure Veg Family Dining Experience",
+  "description": "Shubh Sagar Pure Veg Restaurant in Virar West is a popular vegetarian restaurant serving South Indian, North Indian, Maharashtrian, Chinese, desserts, juices, and beverages. Known for crispy dosas, idlis, pav bhaji, and family-friendly dining experience with outdoor seating.",
+  "cuisine": ["South Indian","North Indian","Maharashtrian","Chinese","Desserts","Beverages"
+  ],
+  "address": "Shop 21-27, Building 14, Ground Floor, A-wing Poonam Orchid, Yashwant Nagar, Zone C, Bolinj, Virar West, Vasai-Virar, Maharashtra 401303",
+  "city": "Vasai-Virar",
+  "state": "Maharashtra",
+  "phone": "+91 88288 25663",
+  "email": "info@shubhsagarveg.com",
+  "hours": "Mon–Sun: 8:00 AM – 12:00 AM",
+  "rating": 4.5,
+  "review_count": 356,
+  "price_range": "₹₹₹",
+  "isPremium": true,
+  "isActive": true,
+  "seo": {
+    "focus_keyword": "Shubh Sagar Pure Veg Virar",
+    "meta_title": "Shubh Sagar Pure Veg Restaurant Virar West",
+    "meta_description": "Enjoy South Indian, pav bhaji and pure veg family dining at Shubh Sagar Pure Veg Restaurant in Virar West.",
+    "local_keywords": [ "shubh sagar virar","pure veg restaurant virar","best dosa in virar",
+    "south indian restaurant virar west","pav bhaji virar","family veg restaurant virar"
+    ]
+  },
+  "images": [
+    "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHpkw4wgjtN_l-SniAeM_cIHyG8YRpqutnd6PREkYwwdUafIFgAEcDXFkAlggtUtWEBz18OmUOw9D5n9rxl5l6dtcb9ak_RUVi2bM64HezvCoC5g6LamxMsHSCYSx_ifQwuxtTVzn1wH3gV=s1360-w1360-h1020-rw",
+    "https://lh3.googleusercontent.com/p/AF1QipPGgmHQqzXG4ziFuq7lr5l9BD19tBKqkr31Ipd6=s1360-w1360-h1020-rw",
+    "https://lh3.googleusercontent.com/p/AF1QipMEnYJ2Ov-f8tQWnWRdRLjlbnwdz7idLAb2QaQF=s1360-w1360-h1020-rw",
+    "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGi3iYzw69gONS8B6rK47jsRwumxMuTmrEw_zJ7HF0SoZbpgZ21sifSbf9NJlkja04d4K2TjP9VdhzaPVEuaD15z8obBdeXjZi4IfPTO9Ewt2oCwXmJMbhbpmKDfehjm_Hnd6hriroP49VO=s1360-w1360-h1020-rw",
+    "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF7nEdM-R3DdBSSTTB9MkhyCoPfVhjya7HgsTV_wOEFGTDYgN8VRdcKhc7pw45zEFef5LZmUcsIoFkM_0cNZOXQb0_xyeSe6DAt0VnphjLm3LD19om9vTKLv9_pTxA3jl_RN6sCqUJNSrO6=s1360-w1360-h1020-rw"
+  ],
+  "menu": [
+    { "name": "Rice Steam Idli", "price": "₹100", "description": "Soft steamed rice idli", "category": "South Indian Snacks", "isPopular": true },
+    { "name": "Rawa Steam Idli", "price": "₹100", "description": "Soft rawa steamed idli", "category": "South Indian Snacks", "isPopular": false },
+    { "name": "Udupi Idli", "price": "₹100", "description": "Classic udupi style idli", "category": "South Indian Snacks", "isPopular": true },
+    { "name": "Kanchipuram Idli", "price": "₹110", "description": "Traditional spicy south idli", "category": "South Indian Snacks", "isPopular": false },
+    { "name": "Idli Wada", "price": "₹120", "description": "Idli with crispy wada", "category": "South Indian Snacks", "isPopular": true },
+    { "name": "Wada Sambhar", "price": "₹110", "description": "Crispy wada with sambhar", "category": "South Indian Snacks", "isPopular": true },
+    { "name": "Dahi Wada", "price": "₹130", "description": "Soft wada with curd", "category": "South Indian Snacks", "isPopular": true },
+    { "name": "Sada Dosa", "price": "₹100", "description": "Classic crispy plain dosa", "category": "Dosa", "isPopular": true },
+    { "name": "Masala Dosa", "price": "₹110", "description": "Potato stuffed crispy dosa", "category": "Dosa", "isPopular": true },
+    { "name": "Mysore Masala Dosa", "price": "₹120", "description": "Spicy mysore masala dosa", "category": "Dosa", "isPopular": true },
+    { "name": "Rawa Masala Dosa", "price": "₹120", "description": "Crispy rawa masala dosa", "category": "Dosa", "isPopular": false },
+    { "name": "Onion Rawa Masala Dosa", "price": "₹130", "description": "Onion topped rawa dosa", "category": "Dosa", "isPopular": true },
+    { "name": "Cheese Sada Dosa", "price": "₹190", "description": "Cheesy crispy plain dosa", "category": "Dosa", "isPopular": true },
+    { "name": "Crispy Schezwan Dosa", "price": "₹180", "description": "Spicy schezwan flavored dosa", "category": "Dosa", "isPopular": true },
+    { "name": "Ghee Roast Masala Dosa", "price": "₹160", "description": "Ghee roasted masala dosa", "category": "Dosa", "isPopular": true },
+    { "name": "Set Dosa", "price": "₹130", "description": "Soft fluffy set dosa", "category": "Dosa", "isPopular": false },
+    { "name": "Benne Dosa", "price": "₹170", "description": "Butter rich crispy dosa", "category": "Dosa", "isPopular": true },
+    { "name": "Sabudana Wada", "price": "₹100", "description": "Crispy fasting sabudana wada", "category": "Upvas", "isPopular": true },
+    { "name": "Pav Bhaji", "price": "₹150", "description": "Classic buttery pav bhaji", "category": "Pav Bhaji", "isPopular": true },
+    { "name": "Cheese Pav Bhaji", "price": "₹170", "description": "Cheesy spicy pav bhaji", "category": "Pav Bhaji", "isPopular": true }
+  ],
+
+  "social": {
+    "instagram": "https://instagram.com/shubhsagarveg",
+    "facebook": "https://facebook.com/shubhsagarveg",
+    "twitter": "https://twitter.com/shubhsagarveg"
+  },
+
+  "swiggy_link": "https://www.swiggy.com/",
+  "zomato_link": "https://www.zomato.com/mumbai/shubh-sagar-pure-veg-restaurant-virar",
+  "whatsapp": "918828825663",
+
+  "map_embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3762.336291242626!2d72.80744487498714!3d19.44106248184006!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7a944a889a5cf%3A0xb5d7b645da98c679!2sShubh%20Sagar%20Pure%20Veg%20Restaurant!5e0!3m2!1sen!2sin!4v1778484605840!5m2!1sen!2sin"
+}
+
+
+]
