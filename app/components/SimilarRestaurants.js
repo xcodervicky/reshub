@@ -1,5 +1,4 @@
 import Link from 'next/link'
-import Image from 'next/image'
 
 // ─── Premium Badge ────────────────────────────────────────────────────────────
 function PremiumBadge() {
@@ -50,12 +49,14 @@ function RestaurantCard({ restaurant }) {
     >
       {/* Image */}
       <div className="relative w-full h-48 overflow-hidden bg-gray-100">
-        <Image
+        {/* next/image ki jagah plain <img> — image already Cloudinary se aa
+            rahi hai (already optimized), next/image use karne se Vercel
+            apna alag Image Optimization transform run karta tha, jisse
+            free plan ka 5K/month transform quota jaldi khatam ho raha tha */}
+        <img
           src={coverImage}
           alt={restaurant.name}
-          fill
-          sizes="(max-width: 768px) 100vw, 33vw"
-          className="object-cover group-hover:scale-105 transition-transform duration-500"
+          className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
         />
 
         {/* Dark gradient overlay at bottom */}
