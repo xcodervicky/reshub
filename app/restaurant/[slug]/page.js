@@ -17,7 +17,10 @@ import SimilarRestaurants from '../../components/SimilarRestaurants'
 // 1. Har 60 sec mein background revalidate hoga (fallback safety net)
 // 2. Admin panel se update hote hi /api/revalidate call se INSTANTLY fresh hoga
 export const dynamic = 'force-static'
-export const revalidate = 60
+// 60 sec bahut chota tha — ISR reads/writes bahut jaldi jaldi ho rahe the.
+// Admin panel already on-demand revalidation (turant fresh) karta hai jab
+// data update hota hai, isliye ye 30 min sirf ek backup safety net hai.
+export const revalidate = 1800
 
 const supabase = createClient(
   process.env.NEXT_PUBLIC_SUPABASE_URL,
@@ -77,9 +80,13 @@ async function getSimilarRestaurants(restaurant) {
 
   if (error || !data) return []
 
-  // Pure random shuffle — har baar alag 3 dikhenge
+  // Pehle Math.random() se shuffle hota tha — isse HAR revalidation pe
+  // output different aata tha (chahe actual data same ho), jisse Vercel
+  // ye samajhta tha ki content change hua hai aur ek naya ISR Write ho
+  // jata tha. Ab deterministic order (rating ke hisaab se) use kar rahe
+  // hain — same data = same output = koi extra ISR Write nahi.
   return data
-    .sort(() => Math.random() - 0.5)
+    .sort((a, b) => (b.rating || 0) - (a.rating || 0))
     .slice(0, 3)
     .map(r => ({
       ...r,
