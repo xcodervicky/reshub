@@ -13,14 +13,27 @@ import ScrollReveal from '../../components/ScrollReveal'
 import SimilarRestaurants from '../../components/SimilarRestaurants'
 
 // ─── ISR CONFIG ────────────────────────────────────────────────────────────
-// Page static banega (fast, SEO-friendly, CDN cached) lekin:
-// 1. Har 60 sec mein background revalidate hoga (fallback safety net)
-// 2. Admin panel se update hote hi /api/revalidate call se INSTANTLY fresh hoga
+// Page static banega (fast, SEO-friendly, CDN cached).
+// Time-based revalidation HATA diya gaya hai — pehle 1800 sec (30 min) tha,
+// jisse ~65 pages ke saath bhi daily ~3000 unnecessary Writes ho rahe the
+// (pages × 48 windows/day), chahe data actually change hua ho ya nahi.
+//
+// Ab page SIRF do tareeko se generate/refresh hota hai:
+// 1. Build time par (generateStaticParams se)
+// 2. On-demand — admin panel se data update hote hi /api/revalidate call
+//    turant is specific page ka cache clear karta hai (revalidatePath)
+//
+// Isse Writes sirf tab honge jab data actually change hua ho — koi bhi
+// "blind" time-based regeneration nahi.
 export const dynamic = 'force-static'
-// 60 sec bahut chota tha — ISR reads/writes bahut jaldi jaldi ho rahe the.
-// Admin panel already on-demand revalidation (turant fresh) karta hai jab
-// data update hota hai, isliye ye 30 min sirf ek backup safety net hai.
-export const revalidate = 1800
+export const revalidate = false
+
+// Naya restaurant add hone par uska page build time par exist nahi karta
+// (generateStaticParams sirf build ke waqt chalta hai). dynamicParams true
+// rakhne se naye slug ki PEHLI visit par page on-the-fly generate + cache
+// ho jata hai (ek Write), uske baad wo bhi static/cached rehta hai.
+export const dynamicParams = true
+
 
 const supabase = createClient(
   process.env.NEXT_PUBLIC_SUPABASE_URL,
