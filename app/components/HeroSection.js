@@ -37,9 +37,12 @@ export default function HeroSection({ restaurant }) {
     zomato_link,
     website_link,
     directions_link,
+    currency,
     isPremium,
     isVerified
   } = restaurant
+
+  const currencySymbol = currency === 'USD' ? '$' : '₹'
 
   return (
     <section className="relative min-h-[70vh] md:min-h-[80vh] flex items-end overflow-hidden">
@@ -86,13 +89,13 @@ export default function HeroSection({ restaurant }) {
           </div>
 
           {/* Name */}
-          <h1 className="font-display text-5xl md:text-7xl font-bold text-white leading-tight mb-2">
+          <h1 className="font-display text-5xl md:text-7xl font-bold text-white leading-[1.05] mb-3 tracking-tight drop-shadow-sm">
             {name}
           </h1>
 
           {/* Tagline */}
           {tagline && (
-            <p className="text-primary-300 text-lg md:text-xl font-medium italic mb-5">{tagline}</p>
+            <p className="text-primary-300 text-lg md:text-xl font-medium italic mb-5 max-w-xl">{tagline}</p>
           )}
 
           {/* Rating */}
@@ -101,28 +104,27 @@ export default function HeroSection({ restaurant }) {
           </div>
 
           {/* Meta */}
-          <div className="flex flex-wrap items-center gap-4 text-white/80 text-sm mb-8">
+          <div className="flex flex-wrap items-center gap-2.5 mb-8">
             {price_range && (
-              <span className="flex items-center gap-1">
-                <span className="text-primary-400"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" className="bi bi-currency-rupee" viewBox="0 0 16 16">
-                  <path d="M4 3.06h2.726c1.22 0 2.12.575 2.325 1.724H4v1.051h5.051C8.855 7.001 8 7.558 6.788 7.558H4v1.317L8.437 14h2.11L6.095 8.884h.855c2.316-.018 3.465-1.476 3.688-3.049H12V4.784h-1.345c-.08-.778-.357-1.335-.793-1.732H12V2H4z" />
-                </svg></span> {price_range}
+              <span className="flex items-center gap-1.5 bg-white/10 backdrop-blur-sm border border-white/15 text-white text-sm font-medium px-3 py-1.5 rounded-full">
+                <span className="text-white font-bold w-4 text-center leading-none">{currencySymbol}</span> {price_range}
               </span>
             )}
             {hours && (
-              <span className="flex items-center gap-1">
-                <span className="text-primary-400"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" className="bi bi-clock" viewBox="0 0 16 16">
+              <span className="flex items-center gap-1.5 bg-white/10 backdrop-blur-sm border border-white/15 text-white text-sm font-medium px-3 py-1.5 rounded-full">
+                <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" fill="currentColor" className="bi bi-clock text-white shrink-0" viewBox="0 0 16 16">
                   <path d="M8 3.5a.5.5 0 0 0-1 0V9a.5.5 0 0 0 .252.434l3.5 2a.5.5 0 0 0 .496-.868L8 8.71z" />
                   <path d="M8 16A8 8 0 1 0 8 0a8 8 0 0 0 0 16m7-8A7 7 0 1 1 1 8a7 7 0 0 1 14 0" />
-                </svg></span> {hours.split('|')[0].trim()}
+                </svg>
+                {hours.split('|')[0].trim()}
               </span>
             )}
             {address && (
-              <span className="flex items-center gap-1">
-                <span className="text-primary-400"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" className="bi bi-geo-alt" viewBox="0 0 16 16">
-                  <path d="M12.166 8.94c-.524 1.062-1.234 2.12-1.96 3.07A32 32 0 0 1 8 14.58a32 32 0 0 1-2.206-2.57c-.726-.95-1.436-2.008-1.96-3.07C3.304 7.867 3 6.862 3 6a5 5 0 0 1 10 0c0 .862-.305 1.867-.834 2.94M8 16s6-5.686 6-10A6 6 0 0 0 2 6c0 4.314 6 10 6 10" />
-                  <path d="M8 8a2 2 0 1 1 0-4 2 2 0 0 1 0 4m0 1a3 3 0 1 0 0-6 3 3 0 0 0 0 6" />
-                </svg> </span> {address.split(',').slice(-3, -1).join(',')}
+              <span className="flex items-center gap-1.5 bg-white/10 backdrop-blur-sm border border-white/15 text-white text-sm font-medium px-3 py-1.5 rounded-full">
+                <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" fill="currentColor" className="bi bi-geo-alt-fill text-white shrink-0" viewBox="0 0 16 16">
+                  <path d="M8 16s6-5.686 6-10A6 6 0 0 0 2 6c0 4.314 6 10 6 10m0-7a3 3 0 1 1 0-6 3 3 0 0 1 0 6"/>
+                </svg>
+                {address.split(',').slice(-3, -1).join(',')}
               </span>
             )}
           </div>
