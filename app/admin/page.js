@@ -16,6 +16,7 @@ const BLANK_FORM = {
   cuisine: '', address: '', phone: '', email: '', hours: '',
   rating: '', review_count: '', price_range: '₹₹', currency: 'INR',
   is_premium: false, is_verified: false, whatsapp: '', swiggy_link: '', zomato_link: '',
+  website_link: '', directions_link: '',
   map_embed: '', instagram: '', facebook: '', twitter: '',
   images: '',
   menu: '',
@@ -144,7 +145,9 @@ export default function AdminPage() {
       price_range: r.price_range || '₹₹', currency: r.currency || 'INR',
       is_premium: r.is_premium || false, is_verified: r.is_verified || false,
       whatsapp: r.whatsapp || '', swiggy_link: r.swiggy_link || '',
-      zomato_link: r.zomato_link || '', map_embed: r.map_embed || '',
+      zomato_link: r.zomato_link || '',
+      website_link: r.website_link || '', directions_link: r.directions_link || '',
+      map_embed: r.map_embed || '',
       instagram: r.instagram || '', facebook: r.facebook || '', twitter: r.twitter || '',
       images: (r.restaurant_images || [])
         .sort((a, b) => a.sort_order - b.sort_order)
@@ -174,7 +177,9 @@ export default function AdminPage() {
       price_range: form.price_range, currency: form.currency, is_premium: form.is_premium,
       is_verified: form.is_verified,
       whatsapp: form.whatsapp, swiggy_link: form.swiggy_link,
-      zomato_link: form.zomato_link, map_embed: form.map_embed,
+      zomato_link: form.zomato_link,
+      website_link: form.website_link, directions_link: form.directions_link,
+      map_embed: form.map_embed,
       instagram: form.instagram, facebook: form.facebook, twitter: form.twitter,
     }
     let restaurantId = editId
@@ -438,6 +443,8 @@ export default function AdminPage() {
               <Section title="Online Ordering & Social">
                 <Field label="Swiggy Link" value={form.swiggy_link} onChange={v => handleChange('swiggy_link', v)} placeholder="https://swiggy.com/..." />
                 <Field label="Zomato Link" value={form.zomato_link} onChange={v => handleChange('zomato_link', v)} placeholder="https://zomato.com/..." />
+                <Field label="Website Link" value={form.website_link} onChange={v => handleChange('website_link', v)} placeholder="https://myrestaurant.com" />
+                <Field label="Directions Link (Google Maps)" value={form.directions_link} onChange={v => handleChange('directions_link', v)} placeholder="https://maps.google.com/?q=..." />
                 <Field label="Instagram" value={form.instagram} onChange={v => handleChange('instagram', v)} placeholder="https://instagram.com/..." />
                 <Field label="Facebook" value={form.facebook} onChange={v => handleChange('facebook', v)} placeholder="https://facebook.com/..." />
               </Section>

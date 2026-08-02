@@ -35,6 +35,8 @@ export default function HeroSection({ restaurant }) {
     address,
     swiggy_link,
     zomato_link,
+    website_link,
+    directions_link,
     isPremium,
     isVerified
   } = restaurant
@@ -154,6 +156,38 @@ export default function HeroSection({ restaurant }) {
               </a>
             )}
           </div>
+
+          {/* Website & Directions buttons */}
+          {(website_link || directions_link) && (
+            <div className="flex flex-wrap gap-3 mt-3">
+              {website_link && (
+                <a
+                  href={website_link}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="flex items-center gap-2.5 bg-white/10 hover:bg-white/20 backdrop-blur-sm text-white font-bold px-6 py-3 rounded-xl border border-white/30 shadow-lg hover:shadow-xl transition-all duration-200 hover:-translate-y-0.5"
+                >
+                  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" className="bi bi-globe2" viewBox="0 0 16 16">
+                    <path d="M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8m7.5-6.923c-.67.204-1.335.82-1.887 1.855A8 8 0 0 0 5.145 4H7.5zM4.09 4a9.3 9.3 0 0 1 .64-1.539 7 7 0 0 1 .597-.933A7.03 7.03 0 0 0 2.255 4zm-.582 3.5c.03-.877.138-1.718.312-2.5H1.674a6.96 6.96 0 0 0-.656 2.5zM4.847 5a12.5 12.5 0 0 0-.338 2.5H7.5V5zM8.5 5v2.5h2.99a12.5 12.5 0 0 0-.337-2.5zM4.51 8.5a12.5 12.5 0 0 0 .337 2.5h2.653V8.5zm3.99 0V11h2.653c.187-.765.306-1.608.338-2.5zM5.145 12q.208.58.468 1.068c.552 1.035 1.218 1.65 1.887 1.855V12zm.182 2.472a7 7 0 0 1-.597-.933A9.3 9.3 0 0 1 4.09 12H2.255a7 7 0 0 0 3.072 2.472M3.82 11a13.7 13.7 0 0 1-.312-2.5H1.026c.064.897.313 1.746.656 2.5zm6.853 3.472A7 7 0 0 0 13.745 12H11.91a9.3 9.3 0 0 1-.64 1.539 7 7 0 0 1-.597.933M8.5 12v2.923c.67-.204 1.335-.82 1.887-1.855q.26-.487.468-1.068zm3.68-1h1.795c.343-.754.592-1.603.656-2.5H12.49a13.7 13.7 0 0 1-.312 2.5m2.451-3.5a7 7 0 0 0-.656-2.5H12.18c.174.782.282 1.623.312 2.5zM11.27 2.461q.339.615.598.933q.34.415.64.933H14.44a7 7 0 0 0-3.072-2.472z"/>
+                  </svg>
+                  Website
+                </a>
+              )}
+              {directions_link && (
+                <a
+                  href={directions_link}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="flex items-center gap-2.5 bg-white/10 hover:bg-white/20 backdrop-blur-sm text-white font-bold px-6 py-3 rounded-xl border border-white/30 shadow-lg hover:shadow-xl transition-all duration-200 hover:-translate-y-0.5"
+                >
+                  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" className="bi bi-signpost-2" viewBox="0 0 16 16">
+                    <path d="M7 1.414V4H2a1 1 0 0 0-.8.4L.938 5.5l.263.3A1 1 0 0 0 2 6.4h5v1.599h1V6.4h5a1 1 0 0 0 .8-.4l.263-.3-.263-.3a1 1 0 0 0-.8-.4H8V4h5.06a1 1 0 0 1 .733.319l1.703 1.831a.5.5 0 0 1 0 .68l-1.703 1.831a1 1 0 0 1-.733.319H8v6H7v-6H1.94a1 1 0 0 1-.733-.319L-.496 6.83a.5.5 0 0 1 0-.68l1.703-1.831A1 1 0 0 1 1.94 4H7V1.414A1 1 0 0 1 8 .5V0a1 1 0 0 0-1 1.414"/>
+                  </svg>
+                  Directions
+                </a>
+              )}
+            </div>
+          )}
         </div>
       </div>
 
