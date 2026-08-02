@@ -99,7 +99,7 @@ export default function ContactSection({ restaurant }) {
             )}
 
             {/* Order Again */}
-            <div className="card p-5 bg-gradient-to-br from-primary-50 to-primary-100/50 border-primary-200/50">
+            {/* <div className="card p-5 bg-gradient-to-br from-primary-50 to-primary-100/50 border-primary-200/50">
               <h4 className="font-semibold text-gray-900 mb-3">Order Online</h4>
               <div className="flex flex-col gap-2">
                 {swiggy_link && (
@@ -121,7 +121,7 @@ export default function ContactSection({ restaurant }) {
                   // zomato icon 
                 )}
               </div>
-            </div>
+            </div> */}
           </div>
 
           {/* Map */}

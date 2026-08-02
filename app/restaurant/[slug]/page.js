@@ -250,7 +250,7 @@ export default async function RestaurantPage({ params }) {
         </div>
 
         {/* 6. Order CTA section */}
-        <div className="reveal">
+        {/* <div className="reveal">
           <section className="py-16 px-4 bg-gradient-to-br from-primary-700 to-primary-600 text-white text-center">
             <div className="max-w-2xl mx-auto">
               <h2 className="font-display text-3xl md:text-4xl font-bold mb-3">
@@ -287,7 +287,7 @@ export default async function RestaurantPage({ params }) {
               </div>
             </div>
           </section>
-        </div>
+        </div> */}
 
         {/* 7. Similar Restaurants — footer ke bilkul upar */}
         {similarRestaurants.length > 0 && (
