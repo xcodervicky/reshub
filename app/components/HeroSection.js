@@ -180,8 +180,8 @@ export default function HeroSection({ restaurant }) {
                   rel="noopener noreferrer"
                   className="flex items-center gap-2.5 bg-white/10 hover:bg-white/20 backdrop-blur-sm text-white font-bold px-6 py-3 rounded-xl border border-white/30 shadow-lg hover:shadow-xl transition-all duration-200 hover:-translate-y-0.5"
                 >
-                  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" className="bi bi-geo-alt-fill" viewBox="0 0 16 16">
-                    <path d="M8 16s6-5.686 6-10A6 6 0 0 0 2 6c0 4.314 6 10 6 10m0-7a3 3 0 1 1 0-6 3 3 0 0 1 0 6"/>
+                  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" className="bi bi-navigation-fill" viewBox="0 0 16 16">
+                    <path d="M15.9 1.784a1 1 0 0 0-1.222-1.222l-13 3.5a1 1 0 0 0-.34 1.79l5.198 3.638 3.638 5.198a1 1 0 0 0 1.79-.339z"/>
                   </svg>
                   Directions
                 </a>
