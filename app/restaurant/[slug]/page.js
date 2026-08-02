@@ -11,6 +11,7 @@ import FreeBranding from '../../components/FreeBranding'
 import RestaurantFooter from '../../components/RestaurantFooter'
 import ScrollReveal from '../../components/ScrollReveal'
 import SimilarRestaurants from '../../components/SimilarRestaurants'
+import RestaurantSchema from '../../components/RestaurantSchema'
 
 // ─── ISR CONFIG ────────────────────────────────────────────────────────────
 // Page static banega (fast, SEO-friendly, CDN cached).
@@ -175,43 +176,12 @@ export default async function RestaurantPage({ params }) {
   // Similar restaurants parallel fetch
   const similarRestaurants = await getSimilarRestaurants(restaurant)
 
-  const jsonLd = {
-    '@context': 'https://schema.org',
-    '@type': 'Restaurant',
-    name: restaurant.name,
-    description: restaurant.description,
-    url: `https://www.dinecup.com/restaurant/${restaurant.slug}`,
-    telephone: restaurant.phone,
-    email: restaurant.email,
-    address: {
-      '@type': 'PostalAddress',
-      streetAddress: restaurant.address,
-    },
-    servesCuisine: restaurant.cuisine,
-    priceRange: restaurant.price_range,
-    image: restaurant.images,
-    aggregateRating: {
-      '@type': 'AggregateRating',
-      ratingValue: restaurant.rating,
-      reviewCount: restaurant.review_count,
-      bestRating: '5',
-    },
-    openingHours: restaurant.hours,
-    sameAs: [
-      restaurant.social?.instagram,
-      restaurant.social?.facebook,
-    ].filter(Boolean),
-  }
-
   const { isPremium } = restaurant
 
   return (
     <>
-      {/* Schema — Google ke liye */}
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
-      />
+      {/* Structured data — Google ke liye (schema.org Restaurant) */}
+      <RestaurantSchema restaurant={restaurant} siteUrl="https://www.dinecup.com" />
 
       {/* Scroll reveal script */}
       <ScrollReveal />
@@ -249,7 +219,7 @@ export default async function RestaurantPage({ params }) {
           <ContactSection restaurant={restaurant} />
         </div>
 
-        {/* 6. Order CTA section */}
+        {/* 6. Order CTA section — hidden as requested */}
         {/* <div className="reveal">
           <section className="py-16 px-4 bg-gradient-to-br from-primary-700 to-primary-600 text-white text-center">
             <div className="max-w-2xl mx-auto">
