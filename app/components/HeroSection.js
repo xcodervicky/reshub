@@ -5,19 +5,27 @@ function StarRating({ rating, reviewCount }) {
   const hasHalf = rating % 1 >= 0.5
 
   return (
-    <div className="flex items-center gap-2">
-      <div className="flex items-center gap-0.5">
-        {[...Array(5)].map((_, i) => (
-          <span
-            key={i}
-            className={`text-xl ${i < fullStars ? 'text-yellow-400' : i === fullStars && hasHalf ? 'text-yellow-300' : 'text-gray-400/50'}`}
-          >
-            ★
-          </span>
-        ))}
+    <div className="inline-flex items-center gap-3 bg-white/10 backdrop-blur-md border border-white/15 rounded-full pl-3 pr-4 py-1.5 shadow-lg">
+      <div className="flex items-center gap-2">
+        <span className="text-white font-bold text-lg leading-none">{rating}</span>
+        <div className="flex items-center gap-0.5">
+          {[...Array(5)].map((_, i) => (
+            <svg
+              key={i}
+              xmlns="http://www.w3.org/2000/svg"
+              width="15"
+              height="15"
+              viewBox="0 0 16 16"
+              className={i < fullStars ? 'text-amber-400' : i === fullStars && hasHalf ? 'text-amber-300' : 'text-white/25'}
+              fill="currentColor"
+            >
+              <path d="M3.612 15.443c-.386.198-.824-.149-.746-.592l.83-4.73L.173 6.765c-.329-.314-.158-.888.283-.95l4.898-.696L7.538.792c.197-.39.73-.39.927 0l2.184 4.327 4.898.696c.441.062.612.636.282.95l-3.522 3.356.83 4.73c.078.443-.36.79-.746.592L8 13.187l-4.389 2.256z"/>
+            </svg>
+          ))}
+        </div>
       </div>
-      <span className="text-white font-bold text-lg">{rating}</span>
-      <span className="text-white/70 text-sm">({reviewCount?.toLocaleString()} reviews)</span>
+      <div className="w-px h-4 bg-white/20" />
+      <span className="text-white/80 text-sm font-medium">{reviewCount?.toLocaleString()} reviews</span>
     </div>
   )
 }
