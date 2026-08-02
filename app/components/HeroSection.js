@@ -180,8 +180,9 @@ export default function HeroSection({ restaurant }) {
                   rel="noopener noreferrer"
                   className="flex items-center gap-2.5 bg-white/10 hover:bg-white/20 backdrop-blur-sm text-white font-bold px-6 py-3 rounded-xl border border-white/30 shadow-lg hover:shadow-xl transition-all duration-200 hover:-translate-y-0.5"
                 >
-                  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" className="bi bi-signpost-2" viewBox="0 0 16 16">
-                    <path d="M7 1.414V4H2a1 1 0 0 0-.8.4L.938 5.5l.263.3A1 1 0 0 0 2 6.4h5v1.599h1V6.4h5a1 1 0 0 0 .8-.4l.263-.3-.263-.3a1 1 0 0 0-.8-.4H8V4h5.06a1 1 0 0 1 .733.319l1.703 1.831a.5.5 0 0 1 0 .68l-1.703 1.831a1 1 0 0 1-.733.319H8v6H7v-6H1.94a1 1 0 0 1-.733-.319L-.496 6.83a.5.5 0 0 1 0-.68l1.703-1.831A1 1 0 0 1 1.94 4H7V1.414A1 1 0 0 1 8 .5V0a1 1 0 0 0-1 1.414"/>
+                  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" className="bi bi-crosshair" viewBox="0 0 16 16">
+                    <path fillRule="evenodd" d="M8 0a.5.5 0 0 1 .5.5v.518A7.001 7.001 0 0 1 14.982 7.5h.518a.5.5 0 0 1 0 1h-.518A7.001 7.001 0 0 1 8.5 14.982v.518a.5.5 0 0 1-1 0v-.518A7.001 7.001 0 0 1 1.018 8.5H.5a.5.5 0 0 1 0-1h.518A7.001 7.001 0 0 1 7.5 1.018V.5A.5.5 0 0 1 8 0zM8 14a6 6 0 1 0 0-12 6 6 0 0 0 0 12z"/>
+                    <path d="M8 5.5a.5.5 0 0 1 .5.5v1.5H10a.5.5 0 0 1 0 1H8.5V10a.5.5 0 0 1-1 0V8.5H6a.5.5 0 0 1 0-1h1.5V6a.5.5 0 0 1 .5-.5z"/>
                   </svg>
                   Directions
                 </a>
